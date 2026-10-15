@@ -1380,7 +1380,7 @@
       }
     ],
     "answer_sha256": {
-      "answer/src/step2/Step2_stu.h": "25032def607bf508a9b8f492cefb8514b420f49a21fa3f98553a5443d90dfc3f"
+      "answer/src/step2/Step2_stu.h": "07ca70bec3308b181dab8672477a5b2d892f655390bfcd1777b06113d5549ab7"
     },
     "submission_form": "header_functions",
     "entry_point_source": "platform_repository",

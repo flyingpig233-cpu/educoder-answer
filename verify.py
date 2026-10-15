@@ -54,12 +54,19 @@ def check_maze(output, sample_input, samples):
 
 def main():
     index = json.loads((ROOT / "index.json").read_text(encoding="utf-8"))
+    selected = None
+    if "--task" in sys.argv:
+        selected = tuple(map(int, sys.argv[sys.argv.index("--task") + 1].split(":")))
+        if len(selected) != 2 or not any((t["homework_id"], t["position"]) == selected for t in index["tasks"]):
+            raise ValueError("--task must identify an existing homework_id:position")
     if "--snapshot" in sys.argv:
         index["tasks"] = [json.loads(p.read_text(encoding="utf-8")) for p in ROOT.rglob("task.json")]
     build = ROOT / ".build"
     build.mkdir(exist_ok=True)
     results = []
     for task in index["tasks"]:
+        if selected and (task["homework_id"], task["position"]) != selected:
+            continue
         directory = ROOT / task["directory"]
         submission = json.loads((directory / "submission.json").read_text(encoding="utf-8")) if (directory / "submission.json").exists() else None
         result = {"directory": task["directory"], "passed": False, "samples": []}
@@ -167,7 +174,13 @@ def main():
         (directory / "task.json").write_text(json.dumps(task, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if "--update-index" in sys.argv:
         (ROOT / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    (ROOT / "verification.json").write_text(json.dumps(results, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    archive_results = results
+    if selected:
+        existing = json.loads((ROOT / "verification.json").read_text(encoding="utf-8"))
+        by_directory = {r["directory"]: r for r in existing}
+        by_directory.update({r["directory"]: r for r in results})
+        archive_results = [by_directory[t["directory"]] for t in index["tasks"]]
+    (ROOT / "verification.json").write_text(json.dumps(archive_results, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     passed = sum(r["passed"] for r in results)
     skipped = sum("skipped" in r for r in results)
     print(f"{passed}/{len(results)-skipped} attempted tasks passed; {skipped} skipped")
