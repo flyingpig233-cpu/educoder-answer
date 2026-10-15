@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "歌德巴赫猜想",
   "answer_files": [
-    "answer/歌德巴赫猜想.c"
-  ]
+    "answer/src/step2/step2_func.h"
+  ],
+  "submission_form": "header_functions"
 }

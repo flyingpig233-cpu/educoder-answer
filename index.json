@@ -17,8 +17,9 @@
       "status": "public_samples_passed",
       "title": "完全平方数",
       "answer_files": [
-        "answer/完全平方数.c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -36,8 +37,9 @@
       "status": "public_samples_passed",
       "title": "字符数和行数",
       "answer_files": [
-        "answer/字符数和行数.c"
-      ]
+        "answer/src/step2/step2_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -55,8 +57,9 @@
       "status": "public_samples_passed",
       "title": "第几天",
       "answer_files": [
-        "answer/第几天.c"
-      ]
+        "answer/src/step5/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -74,8 +77,9 @@
       "status": "public_samples_passed",
       "title": "完数",
       "answer_files": [
-        "answer/完数.c"
-      ]
+        "answer/src/step3/step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -93,8 +97,9 @@
       "status": "public_samples_passed",
       "title": "最大的数字",
       "answer_files": [
-        "answer/最大的数字.c"
-      ]
+        "answer/src/step4/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -112,8 +117,9 @@
       "status": "public_samples_passed",
       "title": "反转字符串",
       "answer_files": [
-        "answer/反转字符串.c"
-      ]
+        "answer/src/step6/step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -131,8 +137,9 @@
       "status": "public_samples_passed",
       "title": "Hello,World!",
       "answer_files": [
-        "answer/Hello,World!.c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -150,8 +157,9 @@
       "status": "public_samples_passed",
       "title": "两数之和",
       "answer_files": [
-        "answer/两数之和.c"
-      ]
+        "answer/src/step2/step2_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -169,8 +177,9 @@
       "status": "public_samples_passed",
       "title": "人机问候",
       "answer_files": [
-        "answer/人机问候.c"
-      ]
+        "answer/src/step3/step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -188,8 +197,9 @@
       "status": "public_samples_passed",
       "title": "整数的个位数字",
       "answer_files": [
-        "answer/整数的个位数字.c"
-      ]
+        "answer/src/step4/step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -207,8 +217,9 @@
       "status": "public_samples_passed",
       "title": "累加求和",
       "answer_files": [
-        "answer/累加求和.c"
-      ]
+        "answer/src/step1/Step1.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -226,8 +237,9 @@
       "status": "public_samples_passed",
       "title": "正数和与平均值",
       "answer_files": [
-        "answer/正数和与平均值.c"
-      ]
+        "answer/src/step2/Step2.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -245,8 +257,9 @@
       "status": "public_samples_passed",
       "title": "两整数高低字节组合成一个新整数",
       "answer_files": [
-        "answer/两整数高低字节组合成一个新整数.c"
-      ]
+        "answer/src/Step1/step1_stu.h"
+      ],
+      "submission_form": "expression"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -264,8 +277,9 @@
       "status": "public_samples_passed",
       "title": "将整数向右循环移动n位",
       "answer_files": [
-        "answer/将整数向右循环移动n位.c"
-      ]
+        "answer/src/Step2/step2_stu.h"
+      ],
+      "submission_form": "expression"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -283,8 +297,9 @@
       "status": "public_samples_passed",
       "title": "翻转指定范围内的二进制位",
       "answer_files": [
-        "answer/翻转指定范围内的二进制位.c"
-      ]
+        "answer/src/Step3/step3_stu.h"
+      ],
+      "submission_form": "expression"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -302,8 +317,9 @@
       "status": "public_samples_passed",
       "title": "求三个数中最大值",
       "answer_files": [
-        "answer/求三个数中最大值.c"
-      ]
+        "answer/src/Step4/step4_stu.h"
+      ],
+      "submission_form": "expression"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -321,8 +337,9 @@
       "status": "public_samples_passed",
       "title": "被3整除且个位数字为5",
       "answer_files": [
-        "answer/被3整除且个位数字为5.c"
-      ]
+        "answer/src/Step5/step5_stu.h"
+      ],
+      "submission_form": "expression"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -340,8 +357,9 @@
       "status": "public_samples_passed",
       "title": "输出对应年份的各月名称及天数",
       "answer_files": [
-        "answer/输出对应年份的各月名称及天数.c"
-      ]
+        "answer/src/Step6/step6_stu.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -359,8 +377,9 @@
       "status": "public_samples_passed",
       "title": "十六进制数字字符",
       "answer_files": [
-        "answer/十六进制数字字符.c"
-      ]
+        "answer/src/Step1/step_stu.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -378,8 +397,9 @@
       "status": "public_samples_passed",
       "title": "将无符号整数高4位和低4位交换",
       "answer_files": [
-        "answer/将无符号整数高4位和低4位交换.c"
-      ]
+        "answer/src/Step2/step2_stu.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -397,8 +417,9 @@
       "status": "public_samples_passed",
       "title": "输出成绩居中的学生的姓名及成绩",
       "answer_files": [
-        "answer/输出成绩居中的学生的姓名及成绩.c"
-      ]
+        "answer/src/step1/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -416,8 +437,9 @@
       "status": "public_samples_passed",
       "title": "将日期转换成第几天",
       "answer_files": [
-        "answer/将日期转换成第几天.c"
-      ]
+        "answer/src/step2/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -435,8 +457,9 @@
       "status": "public_samples_passed",
       "title": "四则运算（if语句）",
       "answer_files": [
-        "answer/四则运算（if语句）.c"
-      ]
+        "answer/src/step3/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -454,8 +477,9 @@
       "status": "public_samples_passed",
       "title": "四则运算（switch语句）",
       "answer_files": [
-        "answer/四则运算（switch语句）.c"
-      ]
+        "answer/src/step4/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -473,8 +497,9 @@
       "status": "public_samples_passed",
       "title": "斐波那契数列",
       "answer_files": [
-        "answer/斐波那契数列.c"
-      ]
+        "answer/src/step5/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -492,8 +517,9 @@
       "status": "public_samples_passed",
       "title": "求Π的近似值",
       "answer_files": [
-        "answer/求Π的近似值.c"
-      ]
+        "answer/src/step6/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -511,8 +537,9 @@
       "status": "public_samples_passed",
       "title": "最大公约数和最小公倍数",
       "answer_files": [
-        "answer/最大公约数和最小公倍数.c"
-      ]
+        "answer/src/step7/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -530,8 +557,9 @@
       "status": "public_samples_passed",
       "title": "打印符合要求的完全平方数",
       "answer_files": [
-        "answer/打印符合要求的完全平方数.c"
-      ]
+        "answer/src/step8/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -549,8 +577,9 @@
       "status": "public_samples_passed",
       "title": "整数个数统计并求均值",
       "answer_files": [
-        "answer/整数个数统计并求均值.c"
-      ]
+        "answer/src/step9/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -568,8 +597,9 @@
       "status": "public_samples_passed",
       "title": "模拟投掷骰子游戏",
       "answer_files": [
-        "answer/模拟投掷骰子游戏.c"
-      ]
+        "answer/src/Step1/step1_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -588,8 +618,10 @@
       "status": "public_samples_passed",
       "title": "冰雹数",
       "answer_files": [
-        "answer/冰雹数.c"
-      ]
+        "answer/src/Step2/step2_stu.h",
+        "answer/src/Step2/step2_main.c"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -608,8 +640,10 @@
       "status": "public_samples_passed",
       "title": "输出整数中指定位数的数值",
       "answer_files": [
-        "answer/输出整数中指定位数的数值.c"
-      ]
+        "answer/src/Step3/step3_stu.h",
+        "answer/src/Step3/step3_main.c"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -628,8 +662,10 @@
       "status": "public_samples_passed",
       "title": "递归实现标准库函数strlen(s)",
       "answer_files": [
-        "answer/递归实现标准库函数strlen(s).c"
-      ]
+        "answer/src/Step4/step4_stu.h",
+        "answer/src/Step4/step4_main.c"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -647,8 +683,9 @@
       "status": "public_samples_passed",
       "title": "递归实现逆序",
       "answer_files": [
-        "answer/递归实现逆序.c"
-      ]
+        "answer/src/Step5/step5_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -666,8 +703,9 @@
       "status": "public_samples_passed",
       "title": "最大公约数",
       "answer_files": [
-        "answer/最大公约数.c"
-      ]
+        "answer/src/Step6/step6_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -685,8 +723,9 @@
       "status": "public_samples_passed",
       "title": "选择法排序",
       "answer_files": [
-        "answer/选择法排序.c"
-      ]
+        "answer/src/Step1/Step1_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -704,8 +743,9 @@
       "status": "public_samples_passed",
       "title": "二分段交换",
       "answer_files": [
-        "answer/二分段交换.c"
-      ]
+        "answer/src/step2/Step2_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -723,8 +763,9 @@
       "status": "public_samples_passed",
       "title": "计数器",
       "answer_files": [
-        "answer/计数器.c"
-      ]
+        "answer/src/step3/Step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -742,8 +783,9 @@
       "status": "public_samples_passed",
       "title": "复制字符数组",
       "answer_files": [
-        "answer/复制字符数组.c"
-      ]
+        "answer/src/step4/Step4_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -761,8 +803,9 @@
       "status": "public_samples_passed",
       "title": "进制转换",
       "answer_files": [
-        "answer/进制转换.c"
-      ]
+        "answer/src/step5/Step5_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -780,8 +823,9 @@
       "status": "public_samples_passed",
       "title": "回文判断",
       "answer_files": [
-        "answer/回文判断.c"
-      ]
+        "answer/src/step6/Step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -799,8 +843,9 @@
       "status": "public_samples_passed",
       "title": "冒泡排序-指针",
       "answer_files": [
-        "answer/冒泡排序-指针.c"
-      ]
+        "answer/src/step1/Step1_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -818,8 +863,9 @@
       "status": "public_samples_passed",
       "title": "数组元素颠倒顺序",
       "answer_files": [
-        "answer/数组元素颠倒顺序.c"
-      ]
+        "answer/src/step2/Step2_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -837,8 +883,9 @@
       "status": "public_samples_passed",
       "title": "字符串连接",
       "answer_files": [
-        "answer/字符串连接.c"
-      ]
+        "answer/src/step3/Step3_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -856,8 +903,9 @@
       "status": "public_samples_passed",
       "title": "设计日期结构类型",
       "answer_files": [
-        "answer/设计日期结构类型.c"
-      ]
+        "answer/src/step1/Step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -875,8 +923,9 @@
       "status": "public_samples_passed",
       "title": "结构体数组的使用",
       "answer_files": [
-        "answer/结构体数组的使用.c"
-      ]
+        "answer/src/step2/Step_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -894,8 +943,9 @@
       "status": "public_samples_passed",
       "title": "结构体元素排序",
       "answer_files": [
-        "answer/结构体元素排序.c"
-      ]
+        "answer/src/step3/Step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -913,8 +963,9 @@
       "status": "public_samples_passed",
       "title": "链表的使用",
       "answer_files": [
-        "answer/链表的使用.c"
-      ]
+        "answer/src/step4/Step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -932,8 +983,9 @@
       "status": "public_samples_passed",
       "title": "文件的读操作",
       "answer_files": [
-        "answer/文件的读操作.c"
-      ]
+        "answer/src/step1/Step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -951,8 +1003,9 @@
       "status": "public_samples_passed",
       "title": "文件连接",
       "answer_files": [
-        "answer/文件连接.c"
-      ]
+        "answer/src/step2/Step2_stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -970,8 +1023,9 @@
       "status": "public_samples_passed",
       "title": "程序改错与跟踪调试",
       "answer_files": [
-        "answer/程序改错与跟踪调试.c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -989,8 +1043,9 @@
       "status": "public_samples_passed",
       "title": "各位数字之和",
       "answer_files": [
-        "answer/各位数字之和.c"
-      ]
+        "answer/src/step2/step2_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1008,8 +1063,9 @@
       "status": "public_samples_passed",
       "title": "折点",
       "answer_files": [
-        "answer/折点.c"
-      ]
+        "answer/src/step3/step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1027,8 +1083,9 @@
       "status": "public_samples_passed",
       "title": "手机号码的判断",
       "answer_files": [
-        "answer/手机号码的判断.c"
-      ]
+        "answer/src/step4/step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1063,8 +1120,9 @@
       "status": "public_samples_passed",
       "title": "IP地址",
       "answer_files": [
-        "answer/IP地址.c"
-      ]
+        "answer/src/step6/step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1099,8 +1157,9 @@
       "status": "public_samples_passed",
       "title": "文本统计",
       "answer_files": [
-        "answer/文本统计.c"
-      ]
+        "answer/src/step10/step10_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1135,8 +1194,9 @@
       "status": "public_samples_passed",
       "title": "源程序完善和修改替换2.(1)",
       "answer_files": [
-        "answer/源程序完善和修改替换2.(1).c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1154,8 +1214,9 @@
       "status": "public_samples_passed",
       "title": "源程序完善和修改替换2.(2)",
       "answer_files": [
-        "answer/源程序完善和修改替换2.(2).c"
-      ]
+        "answer/src/step2/step2_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1173,8 +1234,9 @@
       "status": "public_samples_passed",
       "title": "字符串替换3.(1)",
       "answer_files": [
-        "answer/字符串替换3.(1).c"
-      ]
+        "answer/src/step3/step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1192,8 +1254,9 @@
       "status": "public_samples_passed",
       "title": "单精度浮点数读写",
       "answer_files": [
-        "answer/单精度浮点数读写.c"
-      ]
+        "answer/src/step4/step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1211,8 +1274,9 @@
       "status": "public_samples_passed",
       "title": "班级成绩单3.(2)",
       "answer_files": [
-        "answer/班级成绩单3.(2).c"
-      ]
+        "answer/src/step5/step5_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1230,8 +1294,9 @@
       "status": "public_samples_passed",
       "title": "旋转图像3.(3)",
       "answer_files": [
-        "answer/旋转图像3.(3).c"
-      ]
+        "answer/src/step6/step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1266,8 +1331,9 @@
       "status": "public_samples_passed",
       "title": "源程序修改替换（一）",
       "answer_files": [
-        "answer/源程序修改替换（一）.c"
-      ]
+        "answer/src/step2/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1285,8 +1351,9 @@
       "status": "public_samples_passed",
       "title": "源程序修改替换（二）",
       "answer_files": [
-        "answer/源程序修改替换（二）.c"
-      ]
+        "answer/src/step3/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1304,8 +1371,9 @@
       "status": "public_samples_passed",
       "title": "设计字段结构",
       "answer_files": [
-        "answer/设计字段结构.c"
-      ]
+        "answer/src/step4/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1323,8 +1391,9 @@
       "status": "public_samples_passed",
       "title": "班级成绩单",
       "answer_files": [
-        "answer/班级成绩单.c"
-      ]
+        "answer/src/step5/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1342,8 +1411,9 @@
       "status": "public_samples_passed",
       "title": "成绩排序（一）",
       "answer_files": [
-        "answer/成绩排序（一）.c"
-      ]
+        "answer/src/step6/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1361,8 +1431,9 @@
       "status": "public_samples_passed",
       "title": "回文字符串",
       "answer_files": [
-        "answer/回文字符串.c"
-      ]
+        "answer/src/step7/stu.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1380,8 +1451,9 @@
       "status": "public_samples_passed",
       "title": "成绩排序（二）",
       "answer_files": [
-        "answer/成绩排序（二）.c"
-      ]
+        "answer/src/step8/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1399,8 +1471,9 @@
       "status": "public_samples_passed",
       "title": "逆波兰表达式",
       "answer_files": [
-        "answer/逆波兰表达式.c"
-      ]
+        "answer/src/step9/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1418,8 +1491,9 @@
       "status": "public_samples_passed",
       "title": "斐波那契级数",
       "answer_files": [
-        "answer/斐波那契级数.c"
-      ]
+        "answer/src/step10/stu.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1437,8 +1511,9 @@
       "status": "public_samples_passed",
       "title": "调试计算圆面积",
       "answer_files": [
-        "answer/调试计算圆面积.c"
-      ]
+        "answer/src/step11/stu.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1456,8 +1531,9 @@
       "status": "public_samples_passed",
       "title": "程序改错",
       "answer_files": [
-        "answer/程序改错.c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1475,8 +1551,9 @@
       "status": "statement_examples_passed",
       "title": "程序修改替换(1)",
       "answer_files": [
-        "answer/程序修改替换(1).c"
-      ]
+        "answer/src/step6/step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1494,8 +1571,9 @@
       "status": "public_samples_passed",
       "title": "程序修改替换(2)",
       "answer_files": [
-        "answer/程序修改替换(2).c"
-      ]
+        "answer/src/step7/step7_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1513,8 +1591,9 @@
       "status": "public_samples_passed",
       "title": "歌德巴赫猜想",
       "answer_files": [
-        "answer/歌德巴赫猜想.c"
-      ]
+        "answer/src/step2/step2_func.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1532,8 +1611,9 @@
       "status": "public_samples_passed",
       "title": "完全数",
       "answer_files": [
-        "answer/完全数.c"
-      ]
+        "answer/src/step3/step3_func.h"
+      ],
+      "submission_form": "header_functions"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1551,8 +1631,9 @@
       "status": "public_samples_passed",
       "title": "三角形面积",
       "answer_files": [
-        "answer/三角形面积.c"
-      ]
+        "answer/src/step4/step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1570,8 +1651,9 @@
       "status": "public_samples_passed",
       "title": "条件编译(1)",
       "answer_files": [
-        "answer/条件编译(1).c"
-      ]
+        "answer/src/step8/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1589,8 +1671,9 @@
       "status": "public_samples_passed",
       "title": "条件编译(2)",
       "answer_files": [
-        "answer/条件编译(2).c"
-      ]
+        "answer/src/step9/main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1610,10 +1693,11 @@
       "status": "public_samples_passed",
       "title": "多文件C程序",
       "answer_files": [
-        "answer/file.h",
-        "answer/file2.c",
-        "answer/多文件C程序.c"
-      ]
+        "answer/src/step5/file1.c",
+        "answer/src/step5/file2.c",
+        "answer/src/step5/file.h"
+      ],
+      "submission_form": "multi_file"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1631,8 +1715,9 @@
       "status": "public_samples_passed",
       "title": "程序改错与跟踪调试",
       "answer_files": [
-        "answer/程序改错与跟踪调试.c"
-      ]
+        "answer/src/step1/step_mian.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1650,8 +1735,9 @@
       "status": "public_samples_passed",
       "title": "去掉重复的字符（填空）",
       "answer_files": [
-        "answer/去掉重复的字符（填空）.c"
-      ]
+        "answer/src/step11/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1669,8 +1755,9 @@
       "status": "public_samples_passed",
       "title": "去掉重复字符（改进）",
       "answer_files": [
-        "answer/去掉重复字符（改进）.c"
-      ]
+        "answer/src/step2/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1688,8 +1775,9 @@
       "status": "public_samples_passed",
       "title": "约瑟夫问题（填空）",
       "answer_files": [
-        "answer/约瑟夫问题（填空）.c"
-      ]
+        "answer/src/step12/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1707,8 +1795,9 @@
       "status": "public_samples_passed",
       "title": "解约瑟夫问题（改进）",
       "answer_files": [
-        "answer/解约瑟夫问题（改进）.c"
-      ]
+        "answer/src/step3/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1726,8 +1815,9 @@
       "status": "public_samples_passed",
       "title": "整数的二进制表示",
       "answer_files": [
-        "answer/整数的二进制表示.c"
-      ]
+        "answer/src/step4/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1745,8 +1835,9 @@
       "status": "public_samples_passed",
       "title": "成绩排序",
       "answer_files": [
-        "answer/成绩排序.c"
-      ]
+        "answer/src/step5/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1764,8 +1855,9 @@
       "status": "public_samples_passed",
       "title": "二分查找",
       "answer_files": [
-        "answer/二分查找.c"
-      ]
+        "answer/src/step6/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1783,8 +1875,9 @@
       "status": "public_samples_passed",
       "title": "插入字符串",
       "answer_files": [
-        "answer/插入字符串.c"
-      ]
+        "answer/src/step7/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1802,8 +1895,9 @@
       "status": "public_samples_passed",
       "title": "消除类游戏",
       "answer_files": [
-        "answer/消除类游戏.c"
-      ]
+        "answer/src/step8/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1821,8 +1915,9 @@
       "status": "public_samples_passed",
       "title": "N阶顺转方阵",
       "answer_files": [
-        "answer/N阶顺转方阵.c"
-      ]
+        "answer/src/step9/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1840,8 +1935,9 @@
       "status": "public_samples_passed",
       "title": "迷宫问题",
       "answer_files": [
-        "answer/迷宫问题.c"
-      ]
+        "answer/src/step10/step_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1859,8 +1955,9 @@
       "status": "public_samples_passed",
       "title": "程序改错----合数判断器",
       "answer_files": [
-        "answer/程序改错----合数判断器.c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1878,8 +1975,9 @@
       "status": "public_samples_passed",
       "title": "程序修改替换（1）",
       "answer_files": [
-        "answer/程序修改替换（1）.c"
-      ]
+        "answer/src/step11/step11_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1897,8 +1995,9 @@
       "status": "public_samples_passed",
       "title": "程序修改替换（2）",
       "answer_files": [
-        "answer/程序修改替换（2）.c"
-      ]
+        "answer/src/step12/step12_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1916,8 +2015,9 @@
       "status": "public_samples_passed",
       "title": "纯粹合数求解器",
       "answer_files": [
-        "answer/纯粹合数求解器.c"
-      ]
+        "answer/src/step2/step2_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1935,8 +2035,9 @@
       "status": "public_samples_passed",
       "title": "税金计算",
       "answer_files": [
-        "answer/税金计算.c"
-      ]
+        "answer/src/step3/step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1954,8 +2055,9 @@
       "status": "public_samples_passed",
       "title": "n位数平方的末尾n位和原数相同",
       "answer_files": [
-        "answer/n位数平方的末尾n位和原数相同.c"
-      ]
+        "answer/src/step4/step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1973,8 +2075,9 @@
       "status": "public_samples_passed",
       "title": "n天股票最大波动值",
       "answer_files": [
-        "answer/n天股票最大波动值.c"
-      ]
+        "answer/src/step5/step5_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -1992,8 +2095,9 @@
       "status": "public_samples_passed",
       "title": "去除重复空格",
       "answer_files": [
-        "answer/去除重复空格.c"
-      ]
+        "answer/src/step6/step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2011,8 +2115,9 @@
       "status": "public_samples_passed",
       "title": "打印n行杨辉三角",
       "answer_files": [
-        "answer/打印n行杨辉三角.c"
-      ]
+        "answer/src/step7/step7_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2030,8 +2135,9 @@
       "status": "public_samples_passed",
       "title": "梅森素数",
       "answer_files": [
-        "answer/梅森素数.c"
-      ]
+        "answer/src/step8/step8_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2049,8 +2155,9 @@
       "status": "public_samples_passed",
       "title": "孪生素数",
       "answer_files": [
-        "answer/孪生素数.c"
-      ]
+        "answer/src/step9/step9_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2068,8 +2175,9 @@
       "status": "public_samples_passed",
       "title": "输出abcde/fghij=x表达式",
       "answer_files": [
-        "answer/输出abcde%002Ffghij=x表达式.c"
-      ]
+        "answer/src/step10/step10_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2087,8 +2195,9 @@
       "status": "public_samples_passed",
       "title": "程序改错与跟踪调试",
       "answer_files": [
-        "answer/程序改错与跟踪调试.c"
-      ]
+        "answer/src/step1/step1_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2106,8 +2215,9 @@
       "status": "public_samples_passed",
       "title": "程序完善和修改替换--字符串排序（填空）",
       "answer_files": [
-        "answer/程序完善和修改替换--字符串排序（填空）.c"
-      ]
+        "answer/src/step2/step2_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2125,8 +2235,9 @@
       "status": "public_samples_passed",
       "title": "程序完善和修改替换--字符串排序（改进）",
       "answer_files": [
-        "answer/程序完善和修改替换--字符串排序（改进）.c"
-      ]
+        "answer/src/step3/step3_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2144,8 +2255,9 @@
       "status": "public_samples_passed",
       "title": "程序完善和修改替换--函数指针（填空）",
       "answer_files": [
-        "answer/程序完善和修改替换--函数指针（填空）.c"
-      ]
+        "answer/src/step4/step4_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2163,8 +2275,9 @@
       "status": "public_samples_passed",
       "title": "程序完善和修改替换--函数指针数组（改进）",
       "answer_files": [
-        "answer/程序完善和修改替换--函数指针数组（改进）.c"
-      ]
+        "answer/src/step5/step5_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2182,8 +2295,9 @@
       "status": "public_samples_passed",
       "title": "通过指针取出字节",
       "answer_files": [
-        "answer/通过指针取出字节.c"
-      ]
+        "answer/src/step6/step6_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2201,8 +2315,9 @@
       "status": "public_samples_passed",
       "title": "删除重复元素",
       "answer_files": [
-        "answer/删除重复元素.c"
-      ]
+        "answer/src/step7/step7_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2220,8 +2335,9 @@
       "status": "public_samples_passed",
       "title": "旋转图像",
       "answer_files": [
-        "answer/旋转图像.c"
-      ]
+        "answer/src/step8/step8_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2239,8 +2355,9 @@
       "status": "public_samples_passed",
       "title": "命令行实现对N个整数排序",
       "answer_files": [
-        "answer/命令行实现对N个整数排序.c"
-      ]
+        "answer/src/step9/step9_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2258,8 +2375,9 @@
       "status": "public_samples_passed",
       "title": "删除子串",
       "answer_files": [
-        "answer/删除子串.c"
-      ]
+        "answer/src/step10/step10_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2277,8 +2395,9 @@
       "status": "public_samples_passed",
       "title": "非负整数积",
       "answer_files": [
-        "answer/非负整数积.c"
-      ]
+        "answer/src/step11/step11_main.c"
+      ],
+      "submission_form": "program"
     },
     {
       "course": "C语言程序设计2026秋",
@@ -2296,8 +2415,9 @@
       "status": "public_samples_passed",
       "title": "函数调度",
       "answer_files": [
-        "answer/函数调度.c"
-      ]
+        "answer/src/step12/step12_main.c"
+      ],
+      "submission_form": "program"
     }
   ]
 }

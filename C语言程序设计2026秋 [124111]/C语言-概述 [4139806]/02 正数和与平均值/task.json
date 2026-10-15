@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "正数和与平均值",
   "answer_files": [
-    "answer/正数和与平均值.c"
-  ]
+    "answer/src/step2/Step2.c"
+  ],
+  "submission_form": "program"
 }

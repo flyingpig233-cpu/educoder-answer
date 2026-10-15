@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "复制字符数组",
   "answer_files": [
-    "answer/复制字符数组.c"
-  ]
+    "answer/src/step4/Step4_stu.h"
+  ],
+  "submission_form": "header_functions"
 }

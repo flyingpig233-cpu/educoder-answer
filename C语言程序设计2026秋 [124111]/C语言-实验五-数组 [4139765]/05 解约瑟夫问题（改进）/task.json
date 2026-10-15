@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "解约瑟夫问题（改进）",
   "answer_files": [
-    "answer/解约瑟夫问题（改进）.c"
-  ]
+    "answer/src/step3/step_main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "模拟投掷骰子游戏",
   "answer_files": [
-    "answer/模拟投掷骰子游戏.c"
-  ]
+    "answer/src/Step1/step1_stu.h"
+  ],
+  "submission_form": "header_functions"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "输出abcde/fghij=x表达式",
   "answer_files": [
-    "answer/输出abcde%002Ffghij=x表达式.c"
-  ]
+    "answer/src/step10/step10_main.c"
+  ],
+  "submission_form": "program"
 }

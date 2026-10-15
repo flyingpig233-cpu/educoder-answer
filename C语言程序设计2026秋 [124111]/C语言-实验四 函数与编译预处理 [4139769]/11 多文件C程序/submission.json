@@ -1,0 +1,18 @@
+{
+  "form": "multi_file",
+  "files": [
+    {
+      "answer": "answer/src/step5/file1.c",
+      "platform_path": "src/step5/file1.c"
+    },
+    {
+      "answer": "answer/src/step5/file2.c",
+      "platform_path": "src/step5/file2.c"
+    },
+    {
+      "answer": "answer/src/step5/file.h",
+      "platform_path": "src/step5/file.h"
+    }
+  ],
+  "online_evaluated": false
+}

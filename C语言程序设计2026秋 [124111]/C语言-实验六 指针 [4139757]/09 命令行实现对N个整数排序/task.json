@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "命令行实现对N个整数排序",
   "answer_files": [
-    "answer/命令行实现对N个整数排序.c"
-  ]
+    "answer/src/step9/step9_main.c"
+  ],
+  "submission_form": "program"
 }

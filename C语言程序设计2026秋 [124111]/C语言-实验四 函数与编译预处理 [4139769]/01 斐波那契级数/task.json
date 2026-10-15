@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "斐波那契级数",
   "answer_files": [
-    "answer/斐波那契级数.c"
-  ]
+    "answer/src/step10/stu.c"
+  ],
+  "submission_form": "program"
 }

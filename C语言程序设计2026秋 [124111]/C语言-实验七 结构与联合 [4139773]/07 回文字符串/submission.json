@@ -1,0 +1,10 @@
+{
+  "form": "header_functions",
+  "files": [
+    {
+      "answer": "answer/src/step7/stu.h",
+      "platform_path": "src/step7/stu.h"
+    }
+  ],
+  "online_evaluated": false
+}

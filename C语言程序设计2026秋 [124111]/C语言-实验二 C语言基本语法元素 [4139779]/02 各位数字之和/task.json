@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "各位数字之和",
   "answer_files": [
-    "answer/各位数字之和.c"
-  ]
+    "answer/src/step2/step2_main.c"
+  ],
+  "submission_form": "program"
 }

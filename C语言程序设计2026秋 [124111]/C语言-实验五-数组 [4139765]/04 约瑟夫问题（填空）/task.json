@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "约瑟夫问题（填空）",
   "answer_files": [
-    "answer/约瑟夫问题（填空）.c"
-  ]
+    "answer/src/step12/step_main.c"
+  ],
+  "submission_form": "program"
 }

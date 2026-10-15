@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "Hello,World!",
   "answer_files": [
-    "answer/Hello,World!.c"
-  ]
+    "answer/src/step1/step1_main.c"
+  ],
+  "submission_form": "program"
 }

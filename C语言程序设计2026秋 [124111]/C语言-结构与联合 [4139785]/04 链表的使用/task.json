@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "链表的使用",
   "answer_files": [
-    "answer/链表的使用.c"
-  ]
+    "answer/src/step4/Step4_main.c"
+  ],
+  "submission_form": "program"
 }

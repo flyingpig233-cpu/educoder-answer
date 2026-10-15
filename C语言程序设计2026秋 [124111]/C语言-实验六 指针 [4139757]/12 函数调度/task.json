@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "函数调度",
   "answer_files": [
-    "answer/函数调度.c"
-  ]
+    "answer/src/step12/step12_main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "整数个数统计并求均值",
   "answer_files": [
-    "answer/整数个数统计并求均值.c"
-  ]
+    "answer/src/step9/main.c"
+  ],
+  "submission_form": "program"
 }

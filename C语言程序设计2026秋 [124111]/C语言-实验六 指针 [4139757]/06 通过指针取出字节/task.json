@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "通过指针取出字节",
   "answer_files": [
-    "answer/通过指针取出字节.c"
-  ]
+    "answer/src/step6/step6_main.c"
+  ],
+  "submission_form": "program"
 }

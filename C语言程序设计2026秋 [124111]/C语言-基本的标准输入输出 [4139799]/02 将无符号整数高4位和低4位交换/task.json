@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "将无符号整数高4位和低4位交换",
   "answer_files": [
-    "answer/将无符号整数高4位和低4位交换.c"
-  ]
+    "answer/src/Step2/step2_stu.c"
+  ],
+  "submission_form": "program"
 }

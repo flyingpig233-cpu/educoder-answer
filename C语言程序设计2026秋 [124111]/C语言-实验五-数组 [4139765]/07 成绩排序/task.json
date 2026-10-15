@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "成绩排序",
   "answer_files": [
-    "answer/成绩排序.c"
-  ]
+    "answer/src/step5/step_main.c"
+  ],
+  "submission_form": "program"
 }

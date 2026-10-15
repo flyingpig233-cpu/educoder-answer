@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "旋转图像",
   "answer_files": [
-    "answer/旋转图像.c"
-  ]
+    "answer/src/step8/step8_main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "字符串连接",
   "answer_files": [
-    "answer/字符串连接.c"
-  ]
+    "answer/src/step3/Step3_stu.h"
+  ],
+  "submission_form": "header_functions"
 }

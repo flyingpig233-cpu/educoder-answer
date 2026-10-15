@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "输出成绩居中的学生的姓名及成绩",
   "answer_files": [
-    "answer/输出成绩居中的学生的姓名及成绩.c"
-  ]
+    "answer/src/step1/main.c"
+  ],
+  "submission_form": "program"
 }

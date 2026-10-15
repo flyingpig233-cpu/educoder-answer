@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "设计字段结构",
   "answer_files": [
-    "answer/设计字段结构.c"
-  ]
+    "answer/src/step4/main.c"
+  ],
+  "submission_form": "program"
 }

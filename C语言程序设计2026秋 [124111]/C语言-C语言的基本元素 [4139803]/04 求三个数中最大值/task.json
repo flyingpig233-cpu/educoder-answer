@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "求三个数中最大值",
   "answer_files": [
-    "answer/求三个数中最大值.c"
-  ]
+    "answer/src/Step4/step4_stu.h"
+  ],
+  "submission_form": "expression"
 }

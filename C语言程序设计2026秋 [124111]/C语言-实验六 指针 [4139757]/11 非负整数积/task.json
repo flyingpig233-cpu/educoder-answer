@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "非负整数积",
   "answer_files": [
-    "answer/非负整数积.c"
-  ]
+    "answer/src/step11/step11_main.c"
+  ],
+  "submission_form": "program"
 }

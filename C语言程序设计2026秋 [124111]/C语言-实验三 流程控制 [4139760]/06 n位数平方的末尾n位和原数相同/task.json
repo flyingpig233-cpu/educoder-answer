@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "n位数平方的末尾n位和原数相同",
   "answer_files": [
-    "answer/n位数平方的末尾n位和原数相同.c"
-  ]
+    "answer/src/step4/step4_main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "删除子串",
   "answer_files": [
-    "answer/删除子串.c"
-  ]
+    "answer/src/step10/step10_main.c"
+  ],
+  "submission_form": "program"
 }

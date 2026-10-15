@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "整数的个位数字",
   "answer_files": [
-    "answer/整数的个位数字.c"
-  ]
+    "answer/src/step4/step4_main.c"
+  ],
+  "submission_form": "program"
 }

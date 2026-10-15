@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "程序改错与跟踪调试",
   "answer_files": [
-    "answer/程序改错与跟踪调试.c"
-  ]
+    "answer/src/step1/step_mian.c"
+  ],
+  "submission_form": "program"
 }

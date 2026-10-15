@@ -1,0 +1,22 @@
+[
+  {
+    "name": "本地接口边界 1",
+    "input": "a\n",
+    "expected": "true"
+  },
+  {
+    "name": "本地接口边界 2",
+    "input": "ab\n",
+    "expected": "false"
+  },
+  {
+    "name": "本地接口边界 3",
+    "input": "abba\n",
+    "expected": "true"
+  },
+  {
+    "name": "本地接口边界 4",
+    "input": "abcba\n",
+    "expected": "true"
+  }
+]

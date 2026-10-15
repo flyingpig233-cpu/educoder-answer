@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "被3整除且个位数字为5",
   "answer_files": [
-    "answer/被3整除且个位数字为5.c"
-  ]
+    "answer/src/Step5/step5_stu.h"
+  ],
+  "submission_form": "expression"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "班级成绩单3.(2)",
   "answer_files": [
-    "answer/班级成绩单3.(2).c"
-  ]
+    "answer/src/step5/step5_main.c"
+  ],
+  "submission_form": "program"
 }

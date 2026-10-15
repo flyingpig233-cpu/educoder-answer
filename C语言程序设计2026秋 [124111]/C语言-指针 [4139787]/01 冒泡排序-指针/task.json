@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "冒泡排序-指针",
   "answer_files": [
-    "answer/冒泡排序-指针.c"
-  ]
+    "answer/src/step1/Step1_stu.h"
+  ],
+  "submission_form": "header_functions"
 }

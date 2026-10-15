@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "调试计算圆面积",
   "answer_files": [
-    "answer/调试计算圆面积.c"
-  ]
+    "answer/src/step11/stu.c"
+  ],
+  "submission_form": "program"
 }

@@ -16,8 +16,9 @@
   "status": "public_samples_passed",
   "title": "多文件C程序",
   "answer_files": [
-    "answer/file.h",
-    "answer/file2.c",
-    "answer/多文件C程序.c"
-  ]
+    "answer/src/step5/file1.c",
+    "answer/src/step5/file2.c",
+    "answer/src/step5/file.h"
+  ],
+  "submission_form": "multi_file"
 }

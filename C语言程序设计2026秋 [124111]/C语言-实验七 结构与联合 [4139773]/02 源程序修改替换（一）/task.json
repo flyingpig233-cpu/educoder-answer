@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "源程序修改替换（一）",
   "answer_files": [
-    "answer/源程序修改替换（一）.c"
-  ]
+    "answer/src/step2/main.c"
+  ],
+  "submission_form": "program"
 }

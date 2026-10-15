@@ -1,0 +1,17 @@
+[
+  {
+    "name": "本地接口边界 1",
+    "input": "f1r2",
+    "expected": "241"
+  },
+  {
+    "name": "本地接口边界 2",
+    "input": "ABCDEF",
+    "expected": "11259375"
+  },
+  {
+    "name": "本地接口边界 3",
+    "input": "g123",
+    "expected": "0"
+  }
+]

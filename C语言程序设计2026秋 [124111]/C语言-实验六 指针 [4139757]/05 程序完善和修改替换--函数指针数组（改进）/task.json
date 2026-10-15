@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "程序完善和修改替换--函数指针数组（改进）",
   "answer_files": [
-    "answer/程序完善和修改替换--函数指针数组（改进）.c"
-  ]
+    "answer/src/step5/step5_main.c"
+  ],
+  "submission_form": "program"
 }

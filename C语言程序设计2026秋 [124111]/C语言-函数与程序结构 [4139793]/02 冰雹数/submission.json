@@ -1,0 +1,14 @@
+{
+  "form": "header_functions",
+  "files": [
+    {
+      "answer": "answer/src/Step2/step2_stu.h",
+      "platform_path": "src/Step2/step2_stu.h"
+    },
+    {
+      "answer": "answer/src/Step2/step2_main.c",
+      "platform_path": "src/Step2/step2_main.c"
+    }
+  ],
+  "online_evaluated": false
+}

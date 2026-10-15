@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "文件的读操作",
   "answer_files": [
-    "answer/文件的读操作.c"
-  ]
+    "answer/src/step1/Step1_main.c"
+  ],
+  "submission_form": "program"
 }

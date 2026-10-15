@@ -14,6 +14,7 @@
   "status": "statement_examples_passed",
   "title": "程序修改替换(1)",
   "answer_files": [
-    "answer/程序修改替换(1).c"
-  ]
+    "answer/src/step6/step6_main.c"
+  ],
+  "submission_form": "program"
 }

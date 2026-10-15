@@ -1,0 +1,12 @@
+[
+  {
+    "name": "本地接口边界 1",
+    "input": "a",
+    "expected": "1"
+  },
+  {
+    "name": "本地接口边界 2",
+    "input": "abcdefghijklmnopqrstuvwxyz",
+    "expected": "26"
+  }
+]

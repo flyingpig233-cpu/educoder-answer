@@ -1,0 +1,4 @@
+{
+  "expected_exit_code": 1,
+  "reason": "真实平台 main 在输出后无条件 return 1；按原入口退出码核对，不修改平台源文件。"
+}

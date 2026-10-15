@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "梅森素数",
   "answer_files": [
-    "answer/梅森素数.c"
-  ]
+    "answer/src/step8/step8_main.c"
+  ],
+  "submission_form": "program"
 }

@@ -15,7 +15,19 @@
     "cargo_fmt": "passed",
     "cargo_check_workspace": "passed",
     "cargo_test_workspace": "passed",
-    "core_unit_tests": 21,
+    "core_unit_tests": 27,
     "ui_unit_tests": 4
-  }
+  },
+  "submission_forms": {
+    "program": 93,
+    "expression": 5,
+    "header_functions": 18,
+    "skipped": 4,
+    "multi_file": 1
+  },
+  "real_platform_entry_points": 23,
+  "local_contract_boundary_samples_passed": 50,
+  "interface_regressions_passed": 4,
+  "online_evaluation_verified": false,
+  "submission_format_audit_date": "2026-10-15"
 }

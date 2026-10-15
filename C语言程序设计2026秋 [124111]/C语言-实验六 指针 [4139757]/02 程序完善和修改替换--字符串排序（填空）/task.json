@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "程序完善和修改替换--字符串排序（填空）",
   "answer_files": [
-    "answer/程序完善和修改替换--字符串排序（填空）.c"
-  ]
+    "answer/src/step2/step2_main.c"
+  ],
+  "submission_form": "program"
 }

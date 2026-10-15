@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "完数",
   "answer_files": [
-    "answer/完数.c"
-  ]
+    "answer/src/step3/step3_main.c"
+  ],
+  "submission_form": "program"
 }

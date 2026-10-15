@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "将整数向右循环移动n位",
   "answer_files": [
-    "answer/将整数向右循环移动n位.c"
-  ]
+    "answer/src/Step2/step2_stu.h"
+  ],
+  "submission_form": "expression"
 }

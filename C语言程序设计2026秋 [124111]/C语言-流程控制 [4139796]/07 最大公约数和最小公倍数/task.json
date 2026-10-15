@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "最大公约数和最小公倍数",
   "answer_files": [
-    "answer/最大公约数和最小公倍数.c"
-  ]
+    "answer/src/step7/main.c"
+  ],
+  "submission_form": "program"
 }

@@ -7,3 +7,4 @@
 **/starter/** -text -whitespace
 **/resources/** -text -whitespace
 **/题目.md -text -whitespace
+**/harness/platform/** -text -whitespace

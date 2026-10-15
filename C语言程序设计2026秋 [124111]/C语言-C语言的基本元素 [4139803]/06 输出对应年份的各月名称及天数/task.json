@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "输出对应年份的各月名称及天数",
   "answer_files": [
-    "answer/输出对应年份的各月名称及天数.c"
-  ]
+    "answer/src/Step6/step6_stu.c"
+  ],
+  "submission_form": "program"
 }

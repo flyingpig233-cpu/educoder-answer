@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "程序改错",
   "answer_files": [
-    "answer/程序改错.c"
-  ]
+    "answer/src/step1/step1_main.c"
+  ],
+  "submission_form": "program"
 }

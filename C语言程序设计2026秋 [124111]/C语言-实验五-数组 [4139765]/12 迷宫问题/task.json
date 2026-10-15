@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "迷宫问题",
   "answer_files": [
-    "answer/迷宫问题.c"
-  ]
+    "answer/src/step10/step_main.c"
+  ],
+  "submission_form": "program"
 }

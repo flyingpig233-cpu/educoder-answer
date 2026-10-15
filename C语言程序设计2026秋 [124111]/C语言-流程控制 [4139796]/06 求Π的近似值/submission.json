@@ -1,0 +1,10 @@
+{
+  "form": "program",
+  "files": [
+    {
+      "answer": "answer/src/step6/main.c",
+      "platform_path": "src/step6/main.c"
+    }
+  ],
+  "online_evaluated": false
+}

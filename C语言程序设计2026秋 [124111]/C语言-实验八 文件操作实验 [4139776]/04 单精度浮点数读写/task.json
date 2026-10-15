@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "单精度浮点数读写",
   "answer_files": [
-    "answer/单精度浮点数读写.c"
-  ]
+    "answer/src/step4/step4_main.c"
+  ],
+  "submission_form": "program"
 }

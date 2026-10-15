@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "条件编译(1)",
   "answer_files": [
-    "answer/条件编译(1).c"
-  ]
+    "answer/src/step8/main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "求Π的近似值",
   "answer_files": [
-    "answer/求Π的近似值.c"
-  ]
+    "answer/src/step6/main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "结构体元素排序",
   "answer_files": [
-    "answer/结构体元素排序.c"
-  ]
+    "answer/src/step3/Step3_main.c"
+  ],
+  "submission_form": "program"
 }

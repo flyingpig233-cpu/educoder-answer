@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "消除类游戏",
   "answer_files": [
-    "answer/消除类游戏.c"
-  ]
+    "answer/src/step8/step_main.c"
+  ],
+  "submission_form": "program"
 }

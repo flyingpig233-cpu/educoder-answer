@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "累加求和",
   "answer_files": [
-    "answer/累加求和.c"
-  ]
+    "answer/src/step1/Step1.c"
+  ],
+  "submission_form": "program"
 }

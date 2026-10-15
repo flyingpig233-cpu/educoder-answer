@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "进制转换",
   "answer_files": [
-    "answer/进制转换.c"
-  ]
+    "answer/src/step5/Step5_stu.h"
+  ],
+  "submission_form": "header_functions"
 }

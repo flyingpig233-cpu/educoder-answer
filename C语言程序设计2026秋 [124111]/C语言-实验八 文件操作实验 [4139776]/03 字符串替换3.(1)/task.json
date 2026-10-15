@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "字符串替换3.(1)",
   "answer_files": [
-    "answer/字符串替换3.(1).c"
-  ]
+    "answer/src/step3/step3_main.c"
+  ],
+  "submission_form": "program"
 }

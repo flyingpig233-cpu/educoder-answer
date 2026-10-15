@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "计数器",
   "answer_files": [
-    "answer/计数器.c"
-  ]
+    "answer/src/step3/Step3_main.c"
+  ],
+  "submission_form": "program"
 }

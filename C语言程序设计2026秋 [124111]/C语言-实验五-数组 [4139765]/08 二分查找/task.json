@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "二分查找",
   "answer_files": [
-    "answer/二分查找.c"
-  ]
+    "answer/src/step6/step_main.c"
+  ],
+  "submission_form": "program"
 }

@@ -14,6 +14,7 @@
   "status": "public_samples_passed",
   "title": "税金计算",
   "answer_files": [
-    "answer/税金计算.c"
-  ]
+    "answer/src/step3/step3_main.c"
+  ],
+  "submission_form": "program"
 }

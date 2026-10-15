@@ -1,0 +1,12 @@
+[
+  {
+    "name": "本地接口边界 1",
+    "input": "strcat a b c\n",
+    "expected": "abc"
+  },
+  {
+    "name": "本地接口边界 2",
+    "input": "strcat single\n",
+    "expected": "single"
+  }
+]
