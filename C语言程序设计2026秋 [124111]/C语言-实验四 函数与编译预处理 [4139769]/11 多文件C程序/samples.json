@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "in file1 x=10,y=20,ch is q\nin file2 x=11,y=21,ch is r",
+    "input": "q",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "in file1 x=10,y=20,ch is a\nin file2 x=11,y=21,ch is b",
+    "input": "a",
+    "name": "测试集 2"
+  }
+]

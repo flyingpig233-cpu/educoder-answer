@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "字符数:9,行数:2",
+    "input": "Asd\nXcvb\n",
+    "name": "测试集 1"
+  }
+]

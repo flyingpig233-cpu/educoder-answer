@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/10 梅森素数",
+  "editable_paths": [
+    "src/step8/step8_main.c"
+  ],
+  "homework": "C语言-实验三 流程控制",
+  "homework_id": 4139760,
+  "listed_title": "梅森素数",
+  "position": 10,
+  "public_samples": 1,
+  "shixun": "xavozqji",
+  "status": "public_samples_passed",
+  "title": "梅森素数",
+  "answer_files": [
+    "answer/梅森素数.c"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/10 删除子串",
+  "editable_paths": [
+    "src/step10/step10_main.c"
+  ],
+  "homework": "C语言-实验六 指针",
+  "homework_id": 4139757,
+  "listed_title": "删除子串",
+  "position": 10,
+  "public_samples": 3,
+  "shixun": "72lrs69a",
+  "status": "public_samples_passed",
+  "title": "删除子串",
+  "answer_files": [
+    "answer/删除子串.c"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/02 两数之和",
+  "editable_paths": [
+    "src/step2/step2_main.c"
+  ],
+  "homework": "C语言-入门",
+  "homework_id": 4139809,
+  "listed_title": "两数之和",
+  "position": 2,
+  "public_samples": 1,
+  "shixun": "ho2s5f7c",
+  "status": "public_samples_passed",
+  "title": "两数之和",
+  "answer_files": [
+    "answer/两数之和.c"
+  ]
+}

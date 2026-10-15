@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/09 打印n行杨辉三角",
+  "editable_paths": [
+    "src/step7/step7_main.c"
+  ],
+  "homework": "C语言-实验三 流程控制",
+  "homework_id": 4139760,
+  "listed_title": "打印n行杨辉三角",
+  "position": 9,
+  "public_samples": 2,
+  "shixun": "xavozqji",
+  "status": "public_samples_passed",
+  "title": "打印n行杨辉三角",
+  "answer_files": [
+    "answer/打印n行杨辉三角.c"
+  ]
+}

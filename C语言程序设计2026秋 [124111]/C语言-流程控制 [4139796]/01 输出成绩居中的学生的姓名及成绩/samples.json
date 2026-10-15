@@ -1,0 +1,22 @@
+[
+  {
+    "expected": "A 77",
+    "input": "77 81 59",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "B 89",
+    "input": "78 89 99",
+    "name": "测试集 2"
+  },
+  {
+    "expected": "C 65",
+    "input": "45 98 65",
+    "name": "测试集 3"
+  },
+  {
+    "expected": "A 90",
+    "input": "90 90 80",
+    "name": "测试集 4"
+  }
+]

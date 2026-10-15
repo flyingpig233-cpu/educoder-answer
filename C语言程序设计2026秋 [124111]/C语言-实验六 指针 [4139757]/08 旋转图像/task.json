@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/08 旋转图像",
+  "editable_paths": [
+    "src/step8/step8_main.c"
+  ],
+  "homework": "C语言-实验六 指针",
+  "homework_id": 4139757,
+  "listed_title": "旋转图像",
+  "position": 8,
+  "public_samples": 1,
+  "shixun": "72lrs69a",
+  "status": "public_samples_passed",
+  "title": "旋转图像",
+  "answer_files": [
+    "answer/旋转图像.c"
+  ]
+}

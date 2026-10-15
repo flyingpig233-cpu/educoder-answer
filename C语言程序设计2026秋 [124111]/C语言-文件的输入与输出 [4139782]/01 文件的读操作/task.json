@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-文件的输入与输出 [4139782]/01 文件的读操作",
+  "editable_paths": [
+    "src/step1/Step1_main.c"
+  ],
+  "homework": "C语言-文件的输入与输出",
+  "homework_id": 4139782,
+  "listed_title": "文件的读操作",
+  "position": 1,
+  "public_samples": 3,
+  "shixun": "fv8ojsaf",
+  "status": "public_samples_passed",
+  "title": "文件的读操作",
+  "answer_files": [
+    "answer/文件的读操作.c"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/05 取出一个整数的连续若干位",
+  "editable_paths": [
+    "src/step5/step5_main.c"
+  ],
+  "homework": "C语言-实验二 C语言基本语法元素",
+  "homework_id": 4139779,
+  "listed_title": "取出一个整数的连续若干位",
+  "position": 5,
+  "public_samples": 1,
+  "shixun": "54hb3zkc",
+  "status": "skipped_missing_specification",
+  "title": "取出一个整数的连续若干位",
+  "answer_files": []
+}

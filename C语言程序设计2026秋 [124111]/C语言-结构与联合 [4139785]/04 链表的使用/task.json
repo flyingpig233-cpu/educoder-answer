@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/04 链表的使用",
+  "editable_paths": [
+    "src/step4/Step4_main.c"
+  ],
+  "homework": "C语言-结构与联合",
+  "homework_id": 4139785,
+  "listed_title": "链表的使用",
+  "position": 4,
+  "public_samples": 1,
+  "shixun": "bymko2ph",
+  "status": "public_samples_passed",
+  "title": "链表的使用",
+  "answer_files": [
+    "answer/链表的使用.c"
+  ]
+}

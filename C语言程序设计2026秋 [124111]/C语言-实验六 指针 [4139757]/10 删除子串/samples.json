@@ -1,0 +1,17 @@
+[
+  {
+    "expected": " hungry  foolish\n1",
+    "input": "stay hungry stay foolish\nstay",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "Talk is cheap,show me the code.\n0",
+    "input": "Talk is cheap,show me the code.\nabcd",
+    "name": "测试集 2"
+  },
+  {
+    "expected": "abcc\n1",
+    "input": "aabcbccabc\nabc",
+    "name": "测试集 7"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "gnirts",
+    "input": "string\n",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "uoYerAwoH",
+    "input": "HowAreYou\n",
+    "name": "测试集 2"
+  }
+]

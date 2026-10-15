@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "12erf/\\3gy4iwuhdza",
+    "input": "112erf///\\\\3egyy4iwiiuhdefza1",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "qwert",
+    "input": "qweeert",
+    "name": "测试集 3"
+  }
+]

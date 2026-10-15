@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/03 结构体元素排序",
+  "editable_paths": [
+    "src/step3/Step3_main.c"
+  ],
+  "homework": "C语言-结构与联合",
+  "homework_id": 4139785,
+  "listed_title": "结构体元素排序",
+  "position": 3,
+  "public_samples": 2,
+  "shixun": "bymko2ph",
+  "status": "public_samples_passed",
+  "title": "结构体元素排序",
+  "answer_files": [
+    "answer/结构体元素排序.c"
+  ]
+}

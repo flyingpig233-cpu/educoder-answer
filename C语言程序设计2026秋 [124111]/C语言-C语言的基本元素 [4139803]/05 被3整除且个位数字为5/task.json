@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/05 被3整除且个位数字为5",
+  "editable_paths": [
+    "src/Step5/step5_stu.h"
+  ],
+  "homework": "C语言-C语言的基本元素",
+  "homework_id": 4139803,
+  "listed_title": "被3整除且个位数字为5",
+  "position": 5,
+  "public_samples": 3,
+  "shixun": "zxfl7wny",
+  "status": "public_samples_passed",
+  "title": "被3整除且个位数字为5",
+  "answer_files": [
+    "answer/被3整除且个位数字为5.c"
+  ]
+}

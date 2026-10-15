@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/07 删除重复元素",
+  "editable_paths": [
+    "src/step7/step7_main.c"
+  ],
+  "homework": "C语言-实验六 指针",
+  "homework_id": 4139757,
+  "listed_title": "删除重复元素",
+  "position": 7,
+  "public_samples": 2,
+  "shixun": "72lrs69a",
+  "status": "public_samples_passed",
+  "title": "删除重复元素",
+  "answer_files": [
+    "answer/删除重复元素.c"
+  ]
+}

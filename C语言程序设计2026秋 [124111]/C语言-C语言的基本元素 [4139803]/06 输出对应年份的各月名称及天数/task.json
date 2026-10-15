@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/06 输出对应年份的各月名称及天数",
+  "editable_paths": [
+    "src/Step6/step6_stu.c"
+  ],
+  "homework": "C语言-C语言的基本元素",
+  "homework_id": 4139803,
+  "listed_title": "输出对应年份的各月名称及天数",
+  "position": 6,
+  "public_samples": 1,
+  "shixun": "zxfl7wny",
+  "status": "public_samples_passed",
+  "title": "输出对应年份的各月名称及天数",
+  "answer_files": [
+    "answer/输出对应年份的各月名称及天数.c"
+  ]
+}

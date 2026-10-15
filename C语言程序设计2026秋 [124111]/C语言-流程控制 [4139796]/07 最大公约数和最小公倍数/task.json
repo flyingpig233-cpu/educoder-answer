@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/07 最大公约数和最小公倍数",
+  "editable_paths": [
+    "src/step7/main.c"
+  ],
+  "homework": "C语言-流程控制",
+  "homework_id": 4139796,
+  "listed_title": "最大公约数和最小公倍数",
+  "position": 7,
+  "public_samples": 3,
+  "shixun": "tvku76cw",
+  "status": "public_samples_passed",
+  "title": "最大公约数和最小公倍数",
+  "answer_files": [
+    "answer/最大公约数和最小公倍数.c"
+  ]
+}

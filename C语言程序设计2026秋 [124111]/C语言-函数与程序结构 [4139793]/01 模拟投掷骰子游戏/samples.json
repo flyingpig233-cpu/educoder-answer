@@ -1,0 +1,17 @@
+[
+  {
+    "expected": "Round 1:  Score:7  Success!",
+    "input": "1",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "Round 1:  Score:8  Continue!\nNext rounds: Score 8:Success, Score 7:Failed, others:Continue\nRound 2:  Score:4  Continue!\nRound 3:  Score:6  Continue!\nRound 4:  Score:9  Continue!\nRound 5:  Score:7  Failed!",
+    "input": "18",
+    "name": "测试集 2"
+  },
+  {
+    "expected": "Round 1:  Score:9  Continue!\nNext rounds: Score 9:Success, Score 7:Failed, others:Continue\nRound 2:  Score:9  Success!",
+    "input": "100",
+    "name": "测试集 3"
+  }
+]

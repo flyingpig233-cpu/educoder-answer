@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/07 成绩排序",
+  "editable_paths": [
+    "src/step5/step_main.c"
+  ],
+  "homework": "C语言-实验五-数组",
+  "homework_id": 4139765,
+  "listed_title": "成绩排序",
+  "position": 7,
+  "public_samples": 2,
+  "shixun": "mc8urtsq",
+  "status": "public_samples_passed",
+  "title": "成绩排序",
+  "answer_files": [
+    "answer/成绩排序.c"
+  ]
+}

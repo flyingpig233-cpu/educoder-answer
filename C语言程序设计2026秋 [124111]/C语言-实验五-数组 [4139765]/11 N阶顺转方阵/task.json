@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/11 N阶顺转方阵",
+  "editable_paths": [
+    "src/step9/step_main.c"
+  ],
+  "homework": "C语言-实验五-数组",
+  "homework_id": 4139765,
+  "listed_title": "N阶顺转方阵",
+  "position": 11,
+  "public_samples": 2,
+  "shixun": "mc8urtsq",
+  "status": "public_samples_passed",
+  "title": "N阶顺转方阵",
+  "answer_files": [
+    "answer/N阶顺转方阵.c"
+  ]
+}

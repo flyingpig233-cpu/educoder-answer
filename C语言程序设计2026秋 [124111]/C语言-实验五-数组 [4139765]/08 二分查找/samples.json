@@ -1,0 +1,17 @@
+[
+  {
+    "expected": "zhangsan 83",
+    "input": "1\n3\nxiaoming 90\nxiaohong 79\nzhangsan 83\n2\n4 83\n0",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "not found",
+    "input": "1\n4\nlisi 78\nxiaoming 90\nzhangsan 99\nxiaohong 90\n2\n4 89\n0",
+    "name": "测试集 2"
+  },
+  {
+    "expected": "xhong 90\nxming 90",
+    "input": "1\n4\nlisi 78\nxming 90\nzhangsan 99\nxhong 90\n2\n4 90\n0",
+    "name": "测试集 3"
+  }
+]

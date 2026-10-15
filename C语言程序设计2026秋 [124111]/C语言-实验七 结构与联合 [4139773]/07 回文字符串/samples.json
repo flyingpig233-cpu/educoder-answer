@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "false",
+    "input": "ppoqq\n",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "true",
+    "input": "A man a plan aca nalp a nam A\n",
+    "name": "测试集 2"
+  }
+]

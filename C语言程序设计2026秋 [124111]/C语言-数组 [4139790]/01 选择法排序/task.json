@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/01 选择法排序",
+  "editable_paths": [
+    "src/Step1/Step1_stu.h"
+  ],
+  "homework": "C语言-数组",
+  "homework_id": 4139790,
+  "listed_title": "选择法排序",
+  "position": 1,
+  "public_samples": 1,
+  "shixun": "96tfj5u4",
+  "status": "public_samples_passed",
+  "title": "选择法排序",
+  "answer_files": [
+    "answer/选择法排序.c"
+  ]
+}

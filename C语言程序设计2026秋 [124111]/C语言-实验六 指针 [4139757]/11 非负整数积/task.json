@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/11 非负整数积",
+  "editable_paths": [
+    "src/step11/step11_main.c"
+  ],
+  "homework": "C语言-实验六 指针",
+  "homework_id": 4139757,
+  "listed_title": "非负整数积",
+  "position": 11,
+  "public_samples": 2,
+  "shixun": "72lrs69a",
+  "status": "public_samples_passed",
+  "title": "非负整数积",
+  "answer_files": [
+    "answer/非负整数积.c"
+  ]
+}

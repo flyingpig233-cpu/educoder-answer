@@ -1,0 +1,17 @@
+[
+  {
+    "expected": "3",
+    "input": "3",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "10",
+    "input": "A",
+    "name": "测试集 2"
+  },
+  {
+    "expected": "103",
+    "input": "g",
+    "name": "测试集 3"
+  }
+]

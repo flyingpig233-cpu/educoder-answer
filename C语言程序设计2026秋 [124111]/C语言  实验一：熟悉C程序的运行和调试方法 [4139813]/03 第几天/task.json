@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/03 第几天",
+  "editable_paths": [
+    "src/step5/step_main.c"
+  ],
+  "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+  "homework_id": 4139813,
+  "listed_title": "第几天",
+  "position": 3,
+  "public_samples": 3,
+  "shixun": "c98sofjx",
+  "status": "public_samples_passed",
+  "title": "第几天",
+  "answer_files": [
+    "answer/第几天.c"
+  ]
+}

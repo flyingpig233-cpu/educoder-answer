@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "6=1+2+3",
+    "input": "6",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "5 is not a perfect number",
+    "input": "5",
+    "name": "测试集 2"
+  }
+]

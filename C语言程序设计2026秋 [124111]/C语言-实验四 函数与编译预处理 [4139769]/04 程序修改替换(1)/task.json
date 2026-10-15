@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/04 程序修改替换(1)",
+  "editable_paths": [
+    "src/step6/step6_main.c"
+  ],
+  "homework": "C语言-实验四 函数与编译预处理",
+  "homework_id": 4139769,
+  "listed_title": "程序修改替换(1)",
+  "position": 4,
+  "public_samples": 0,
+  "shixun": "9wrkblco",
+  "status": "statement_examples_passed",
+  "title": "程序修改替换(1)",
+  "answer_files": [
+    "answer/程序修改替换(1).c"
+  ]
+}

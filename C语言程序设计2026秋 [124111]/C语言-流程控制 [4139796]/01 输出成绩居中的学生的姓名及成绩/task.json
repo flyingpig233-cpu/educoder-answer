@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/01 输出成绩居中的学生的姓名及成绩",
+  "editable_paths": [
+    "src/step1/main.c"
+  ],
+  "homework": "C语言-流程控制",
+  "homework_id": 4139796,
+  "listed_title": "输出成绩居中的学生的姓名及成绩",
+  "position": 1,
+  "public_samples": 4,
+  "shixun": "tvku76cw",
+  "status": "public_samples_passed",
+  "title": "输出成绩居中的学生的姓名及成绩",
+  "answer_files": [
+    "answer/输出成绩居中的学生的姓名及成绩.c"
+  ]
+}

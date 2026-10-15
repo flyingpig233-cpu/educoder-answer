@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "The result is 2.500000",
+    "input": "1 2",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "The result is 24.023438",
+    "input": "3.5 4",
+    "name": "测试集 2"
+  }
+]

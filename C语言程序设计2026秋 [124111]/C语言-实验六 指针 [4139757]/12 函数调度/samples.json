@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "task1 is called!\ntask3 is called!\ntask6 is called!\ntask0 is called!\ntask7 is called!\ntask1 is called!\ntask2 is called!\ntask2 is called!",
+    "input": "13607122",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "task1 is called!\ntask3 is called!\ntask5 is called!\ntask0 is called!",
+    "input": "1350",
+    "name": "测试集 2"
+  }
+]

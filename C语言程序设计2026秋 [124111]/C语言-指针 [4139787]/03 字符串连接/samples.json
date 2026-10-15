@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "abcdefhigdfa",
+    "input": "strcat   abcdef   higdfa\n",
+    "name": "测试集 1"
+  }
+]

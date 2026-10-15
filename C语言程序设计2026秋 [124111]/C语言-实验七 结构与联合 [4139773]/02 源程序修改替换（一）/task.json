@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/02 源程序修改替换（一）",
+  "editable_paths": [
+    "src/step2/main.c"
+  ],
+  "homework": "C语言-实验七 结构与联合",
+  "homework_id": 4139773,
+  "listed_title": "源程序修改替换（一）",
+  "position": 2,
+  "public_samples": 2,
+  "shixun": "imszrkxv",
+  "status": "public_samples_passed",
+  "title": "源程序修改替换（一）",
+  "answer_files": [
+    "answer/源程序修改替换（一）.c"
+  ]
+}

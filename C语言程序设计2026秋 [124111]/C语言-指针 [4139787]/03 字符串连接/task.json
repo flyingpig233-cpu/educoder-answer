@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/03 字符串连接",
+  "editable_paths": [
+    "src/step3/Step3_stu.h"
+  ],
+  "homework": "C语言-指针",
+  "homework_id": 4139787,
+  "listed_title": "字符串连接",
+  "position": 3,
+  "public_samples": 1,
+  "shixun": "wkblvrs2",
+  "status": "public_samples_passed",
+  "title": "字符串连接",
+  "answer_files": [
+    "answer/字符串连接.c"
+  ]
+}

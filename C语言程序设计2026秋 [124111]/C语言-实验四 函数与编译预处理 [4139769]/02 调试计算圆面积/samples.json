@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "The integer fraction of area is 31416",
+    "input": "100",
+    "name": "测试集 1"
+  }
+]

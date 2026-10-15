@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "字数 5\n字符数 17\n行数 2",
+    "input": "你好\nhello      Hello    HELLO\n",
+    "name": "测试集 1"
+  }
+]

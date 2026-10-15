@@ -1,0 +1,7 @@
+[
+  {
+    "name": "题面数学定义推导：1! 至 20! 的部分和（非平台测试集）",
+    "input": "",
+    "expected": "k=1 the sum is 1\nk=2 the sum is 3\nk=3 the sum is 9\nk=4 the sum is 33\nk=5 the sum is 153\nk=6 the sum is 873\nk=7 the sum is 5913\nk=8 the sum is 46233\nk=9 the sum is 409113\nk=10 the sum is 4037913\nk=11 the sum is 43954713\nk=12 the sum is 522956313\nk=13 the sum is 6749977113\nk=14 the sum is 93928268313\nk=15 the sum is 1401602636313\nk=16 the sum is 22324392524313\nk=17 the sum is 378011820620313\nk=18 the sum is 6780385526348313\nk=19 the sum is 128425485935180313\nk=20 the sum is 2561327494111820313"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "1 1234567\n2 abcdefg\n3 !@#$%^&\n4 1234567\n5 abcdefg\n6 !@#$%^&\n7 1234567\n8 abcdefg\n9 !@#$%^&",
+    "input": "./cat test1.txt /p\nq",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "1 I am a student.\n2 我是一个学生。\n3 I am a student.\n4 我是一个学生。\n5 I am a student.\n6 我是一个学生。\n7 I am a student.\n8 我是一个学生。\n9 I am a student.\n10 我是一个学生。\n11 I am a student.\n12 我是一个学生。",
+    "input": "./cat test2.txt /p \nq \nq",
+    "name": "测试集 2"
+  }
+]

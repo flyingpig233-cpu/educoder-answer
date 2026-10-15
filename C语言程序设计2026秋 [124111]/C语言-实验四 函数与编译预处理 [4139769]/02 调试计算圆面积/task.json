@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/02 调试计算圆面积",
+  "editable_paths": [
+    "src/step11/stu.c"
+  ],
+  "homework": "C语言-实验四 函数与编译预处理",
+  "homework_id": 4139769,
+  "listed_title": "调试计算圆面积",
+  "position": 2,
+  "public_samples": 1,
+  "shixun": "9wrkblco",
+  "status": "public_samples_passed",
+  "title": "调试计算圆面积",
+  "answer_files": [
+    "answer/调试计算圆面积.c"
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "So they think we ought to wait here?\nI will run they in if the bus isn't going into the town because of the snow today.\nIn a pinch, they could get home on foot.\nthey don't know the facts, so keep theyr mouth shut!\nWe have many patterns in stock for they to choose from.",
+    "input": "./replace test1.txt you they",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "What will you do on Sun123?\nAre you free to123?\nWhat did you do for the past few 123s?\nTo123 is Mon123.\nI am happy to123!",
+    "input": "./replace test2.txt day 123",
+    "name": "测试集 2"
+  }
+]

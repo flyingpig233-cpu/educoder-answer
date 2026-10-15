@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-文件的输入与输出 [4139782]/02 文件连接",
+  "editable_paths": [
+    "src/step2/Step2_stu.h"
+  ],
+  "homework": "C语言-文件的输入与输出",
+  "homework_id": 4139782,
+  "listed_title": "文件连接",
+  "position": 2,
+  "public_samples": 1,
+  "shixun": "fv8ojsaf",
+  "status": "public_samples_passed",
+  "title": "文件连接",
+  "answer_files": [
+    "answer/文件连接.c"
+  ]
+}

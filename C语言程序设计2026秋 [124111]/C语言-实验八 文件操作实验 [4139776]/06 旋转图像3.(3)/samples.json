@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "3 4\n5 2\n1 3",
+    "input": "matrix1.in",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "4 8 12\n3 7 11\n2 6 10\n1 5 9",
+    "input": "matrix2.in",
+    "name": "测试集 2"
+  }
+]

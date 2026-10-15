@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "HELLO",
+    "input": "hello\n",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "i HAVE 30 DOLLARS",
+    "input": "I have 30 dollars\n",
+    "name": "测试集 2"
+  }
+]

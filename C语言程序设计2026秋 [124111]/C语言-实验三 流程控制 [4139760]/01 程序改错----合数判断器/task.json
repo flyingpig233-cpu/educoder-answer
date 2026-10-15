@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/01 程序改错----合数判断器",
+  "editable_paths": [
+    "src/step1/step1_main.c"
+  ],
+  "homework": "C语言-实验三 流程控制",
+  "homework_id": 4139760,
+  "listed_title": "程序改错----合数判断器",
+  "position": 1,
+  "public_samples": 1,
+  "shixun": "xavozqji",
+  "status": "public_samples_passed",
+  "title": "程序改错----合数判断器",
+  "answer_files": [
+    "answer/程序改错----合数判断器.c"
+  ]
+}

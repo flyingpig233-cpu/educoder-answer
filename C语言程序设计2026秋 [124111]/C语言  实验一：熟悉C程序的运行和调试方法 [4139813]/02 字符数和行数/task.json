@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/02 字符数和行数",
+  "editable_paths": [
+    "src/step2/step2_main.c"
+  ],
+  "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+  "homework_id": 4139813,
+  "listed_title": "字符数和行数",
+  "position": 2,
+  "public_samples": 1,
+  "shixun": "c98sofjx",
+  "status": "public_samples_passed",
+  "title": "字符数和行数",
+  "answer_files": [
+    "answer/字符数和行数.c"
+  ]
+}

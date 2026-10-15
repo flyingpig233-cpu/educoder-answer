@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "iloveyou",
+    "input": "iyou\nlove\n1",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "wonderful_life",
+    "input": "life\nwonderful_\n0",
+    "name": "测试集 2"
+  }
+]

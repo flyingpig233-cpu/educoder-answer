@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/06 回文判断",
+  "editable_paths": [
+    "src/step6/Step6_main.c"
+  ],
+  "homework": "C语言-数组",
+  "homework_id": 4139790,
+  "listed_title": "回文判断",
+  "position": 6,
+  "public_samples": 1,
+  "shixun": "96tfj5u4",
+  "status": "public_samples_passed",
+  "title": "回文判断",
+  "answer_files": [
+    "answer/回文判断.c"
+  ]
+}

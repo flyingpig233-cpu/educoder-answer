@@ -1,0 +1,20 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/03 输出整数中指定位数的数值",
+  "editable_paths": [
+    "src/Step3/step3_stu.h",
+    "src/Step3/step3_main.c"
+  ],
+  "homework": "C语言-函数与程序结构",
+  "homework_id": 4139793,
+  "listed_title": "输出整数中指定位数的数值",
+  "position": 3,
+  "public_samples": 3,
+  "shixun": "ycf3a4h6",
+  "status": "public_samples_passed",
+  "title": "输出整数中指定位数的数值",
+  "answer_files": [
+    "answer/输出整数中指定位数的数值.c"
+  ]
+}

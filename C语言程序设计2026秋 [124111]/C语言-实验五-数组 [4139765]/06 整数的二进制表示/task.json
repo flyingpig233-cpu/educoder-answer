@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/06 整数的二进制表示",
+  "editable_paths": [
+    "src/step4/step_main.c"
+  ],
+  "homework": "C语言-实验五-数组",
+  "homework_id": 4139765,
+  "listed_title": "整数的二进制表示",
+  "position": 6,
+  "public_samples": 2,
+  "shixun": "mc8urtsq",
+  "status": "public_samples_passed",
+  "title": "整数的二进制表示",
+  "answer_files": [
+    "answer/整数的二进制表示.c"
+  ]
+}

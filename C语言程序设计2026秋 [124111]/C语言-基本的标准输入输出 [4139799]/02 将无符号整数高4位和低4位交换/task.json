@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-基本的标准输入输出 [4139799]/02 将无符号整数高4位和低4位交换",
+  "editable_paths": [
+    "src/Step2/step2_stu.c"
+  ],
+  "homework": "C语言-基本的标准输入输出",
+  "homework_id": 4139799,
+  "listed_title": "将无符号整数高4位和低4位交换",
+  "position": 2,
+  "public_samples": 4,
+  "shixun": "xasu42lk",
+  "status": "public_samples_passed",
+  "title": "将无符号整数高4位和低4位交换",
+  "answer_files": [
+    "answer/将无符号整数高4位和低4位交换.c"
+  ]
+}

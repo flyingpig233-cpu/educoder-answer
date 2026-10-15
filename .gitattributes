@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+**/starter/** -text -whitespace
+**/resources/** -text -whitespace
+**/题目.md -text -whitespace

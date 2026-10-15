@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "python": "3.12.13",
+  "gcc": "gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 16.1.0",
+  "courses": 1,
+  "homeworks": 18,
+  "tasks": 121,
+  "public_sample_tasks_passed": 116,
+  "public_samples_passed": 207,
+  "statement_derived_tasks_passed": 1,
+  "skipped_missing_specification": 4,
+  "remote_evaluation_performed": false,
+  "core_checks": {
+    "cargo_fmt": "passed",
+    "cargo_check_workspace": "passed",
+    "cargo_test_workspace": "passed",
+    "core_unit_tests": 21,
+    "ui_unit_tests": 4
+  }
+}

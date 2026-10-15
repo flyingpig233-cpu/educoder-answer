@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "a 90\nb 70\nc 85",
+    "input": "1\n3\na 90\nb 70\nc 85\n3\n0",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "jerry 89\nangel 87\nhong 80\nming 80",
+    "input": "1\n4\nming 80\njerry 89\nhong 80\nangel 87\n2\n3\n0",
+    "name": "测试集 2"
+  }
+]

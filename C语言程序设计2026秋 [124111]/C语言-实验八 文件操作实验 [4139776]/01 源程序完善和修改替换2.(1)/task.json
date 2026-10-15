@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/01 源程序完善和修改替换2.(1)",
+  "editable_paths": [
+    "src/step1/step1_main.c"
+  ],
+  "homework": "C语言-实验八 文件操作实验",
+  "homework_id": 4139776,
+  "listed_title": "源程序完善和修改替换2.(1)",
+  "position": 1,
+  "public_samples": 2,
+  "shixun": "2fl3zfqs",
+  "status": "public_samples_passed",
+  "title": "源程序完善和修改替换2.(1)",
+  "answer_files": [
+    "answer/源程序完善和修改替换2.(1).c"
+  ]
+}

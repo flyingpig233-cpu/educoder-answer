@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "ProgrammingLanguage\nProgrmmingLnguge",
+    "input": "Programming\nLanguage\na",
+    "name": "测试集 1"
+  }
+]

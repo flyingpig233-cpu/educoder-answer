@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/01 模拟投掷骰子游戏",
+  "editable_paths": [
+    "src/Step1/step1_stu.h"
+  ],
+  "homework": "C语言-函数与程序结构",
+  "homework_id": 4139793,
+  "listed_title": "模拟投掷骰子游戏",
+  "position": 1,
+  "public_samples": 3,
+  "shixun": "ycf3a4h6",
+  "status": "public_samples_passed",
+  "title": "模拟投掷骰子游戏",
+  "answer_files": [
+    "answer/模拟投掷骰子游戏.c"
+  ]
+}

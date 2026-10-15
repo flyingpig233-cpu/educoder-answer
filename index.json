@@ -1,0 +1,2303 @@
+{
+  "issues": [],
+  "tasks": [
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/01 完全平方数",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+      "homework_id": 4139813,
+      "listed_title": "完全平方数",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "c98sofjx",
+      "status": "public_samples_passed",
+      "title": "完全平方数",
+      "answer_files": [
+        "answer/完全平方数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/02 字符数和行数",
+      "editable_paths": [
+        "src/step2/step2_main.c"
+      ],
+      "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+      "homework_id": 4139813,
+      "listed_title": "字符数和行数",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "c98sofjx",
+      "status": "public_samples_passed",
+      "title": "字符数和行数",
+      "answer_files": [
+        "answer/字符数和行数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/03 第几天",
+      "editable_paths": [
+        "src/step5/step_main.c"
+      ],
+      "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+      "homework_id": 4139813,
+      "listed_title": "第几天",
+      "position": 3,
+      "public_samples": 3,
+      "shixun": "c98sofjx",
+      "status": "public_samples_passed",
+      "title": "第几天",
+      "answer_files": [
+        "answer/第几天.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/04 完数",
+      "editable_paths": [
+        "src/step3/step3_main.c"
+      ],
+      "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+      "homework_id": 4139813,
+      "listed_title": "完数",
+      "position": 4,
+      "public_samples": 1,
+      "shixun": "c98sofjx",
+      "status": "public_samples_passed",
+      "title": "完数",
+      "answer_files": [
+        "answer/完数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/05 最大的数字",
+      "editable_paths": [
+        "src/step4/step_main.c"
+      ],
+      "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+      "homework_id": 4139813,
+      "listed_title": "最大的数字",
+      "position": 5,
+      "public_samples": 1,
+      "shixun": "c98sofjx",
+      "status": "public_samples_passed",
+      "title": "最大的数字",
+      "answer_files": [
+        "answer/最大的数字.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/06 反转字符串",
+      "editable_paths": [
+        "src/step6/step6_main.c"
+      ],
+      "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+      "homework_id": 4139813,
+      "listed_title": "反转字符串",
+      "position": 6,
+      "public_samples": 1,
+      "shixun": "c98sofjx",
+      "status": "public_samples_passed",
+      "title": "反转字符串",
+      "answer_files": [
+        "answer/反转字符串.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/01 Hello,World!",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言-入门",
+      "homework_id": 4139809,
+      "listed_title": "Hello,World!",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "ho2s5f7c",
+      "status": "public_samples_passed",
+      "title": "Hello,World!",
+      "answer_files": [
+        "answer/Hello,World!.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/02 两数之和",
+      "editable_paths": [
+        "src/step2/step2_main.c"
+      ],
+      "homework": "C语言-入门",
+      "homework_id": 4139809,
+      "listed_title": "两数之和",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "ho2s5f7c",
+      "status": "public_samples_passed",
+      "title": "两数之和",
+      "answer_files": [
+        "answer/两数之和.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/03 人机问候",
+      "editable_paths": [
+        "src/step3/step3_main.c"
+      ],
+      "homework": "C语言-入门",
+      "homework_id": 4139809,
+      "listed_title": "人机问候",
+      "position": 3,
+      "public_samples": 1,
+      "shixun": "ho2s5f7c",
+      "status": "public_samples_passed",
+      "title": "人机问候",
+      "answer_files": [
+        "answer/人机问候.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/04 整数的个位数字",
+      "editable_paths": [
+        "src/step4/step4_main.c"
+      ],
+      "homework": "C语言-入门",
+      "homework_id": 4139809,
+      "listed_title": "整数的个位数字",
+      "position": 4,
+      "public_samples": 1,
+      "shixun": "ho2s5f7c",
+      "status": "public_samples_passed",
+      "title": "整数的个位数字",
+      "answer_files": [
+        "answer/整数的个位数字.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-概述 [4139806]/01 累加求和",
+      "editable_paths": [
+        "src/step1/Step1.c"
+      ],
+      "homework": "C语言-概述",
+      "homework_id": 4139806,
+      "listed_title": "累加求和",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "8wz7p5m4",
+      "status": "public_samples_passed",
+      "title": "累加求和",
+      "answer_files": [
+        "answer/累加求和.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-概述 [4139806]/02 正数和与平均值",
+      "editable_paths": [
+        "src/step2/Step2.c"
+      ],
+      "homework": "C语言-概述",
+      "homework_id": 4139806,
+      "listed_title": "正数和与平均值",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "8wz7p5m4",
+      "status": "public_samples_passed",
+      "title": "正数和与平均值",
+      "answer_files": [
+        "answer/正数和与平均值.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/01 两整数高低字节组合成一个新整数",
+      "editable_paths": [
+        "src/Step1/step1_stu.h"
+      ],
+      "homework": "C语言-C语言的基本元素",
+      "homework_id": 4139803,
+      "listed_title": "两整数高低字节组合成一个新整数",
+      "position": 1,
+      "public_samples": 3,
+      "shixun": "zxfl7wny",
+      "status": "public_samples_passed",
+      "title": "两整数高低字节组合成一个新整数",
+      "answer_files": [
+        "answer/两整数高低字节组合成一个新整数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/02 将整数向右循环移动n位",
+      "editable_paths": [
+        "src/Step2/step2_stu.h"
+      ],
+      "homework": "C语言-C语言的基本元素",
+      "homework_id": 4139803,
+      "listed_title": "将整数向右循环移动n位",
+      "position": 2,
+      "public_samples": 2,
+      "shixun": "zxfl7wny",
+      "status": "public_samples_passed",
+      "title": "将整数向右循环移动n位",
+      "answer_files": [
+        "answer/将整数向右循环移动n位.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/03 翻转指定范围内的二进制位",
+      "editable_paths": [
+        "src/Step3/step3_stu.h"
+      ],
+      "homework": "C语言-C语言的基本元素",
+      "homework_id": 4139803,
+      "listed_title": "翻转指定范围内的二进制位",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "zxfl7wny",
+      "status": "public_samples_passed",
+      "title": "翻转指定范围内的二进制位",
+      "answer_files": [
+        "answer/翻转指定范围内的二进制位.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/04 求三个数中最大值",
+      "editable_paths": [
+        "src/Step4/step4_stu.h"
+      ],
+      "homework": "C语言-C语言的基本元素",
+      "homework_id": 4139803,
+      "listed_title": "求三个数中最大值",
+      "position": 4,
+      "public_samples": 1,
+      "shixun": "zxfl7wny",
+      "status": "public_samples_passed",
+      "title": "求三个数中最大值",
+      "answer_files": [
+        "answer/求三个数中最大值.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/05 被3整除且个位数字为5",
+      "editable_paths": [
+        "src/Step5/step5_stu.h"
+      ],
+      "homework": "C语言-C语言的基本元素",
+      "homework_id": 4139803,
+      "listed_title": "被3整除且个位数字为5",
+      "position": 5,
+      "public_samples": 3,
+      "shixun": "zxfl7wny",
+      "status": "public_samples_passed",
+      "title": "被3整除且个位数字为5",
+      "answer_files": [
+        "answer/被3整除且个位数字为5.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/06 输出对应年份的各月名称及天数",
+      "editable_paths": [
+        "src/Step6/step6_stu.c"
+      ],
+      "homework": "C语言-C语言的基本元素",
+      "homework_id": 4139803,
+      "listed_title": "输出对应年份的各月名称及天数",
+      "position": 6,
+      "public_samples": 1,
+      "shixun": "zxfl7wny",
+      "status": "public_samples_passed",
+      "title": "输出对应年份的各月名称及天数",
+      "answer_files": [
+        "answer/输出对应年份的各月名称及天数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-基本的标准输入输出 [4139799]/01 十六进制数字字符",
+      "editable_paths": [
+        "src/Step1/step_stu.c"
+      ],
+      "homework": "C语言-基本的标准输入输出",
+      "homework_id": 4139799,
+      "listed_title": "十六进制数字字符",
+      "position": 1,
+      "public_samples": 3,
+      "shixun": "xasu42lk",
+      "status": "public_samples_passed",
+      "title": "十六进制数字字符",
+      "answer_files": [
+        "answer/十六进制数字字符.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-基本的标准输入输出 [4139799]/02 将无符号整数高4位和低4位交换",
+      "editable_paths": [
+        "src/Step2/step2_stu.c"
+      ],
+      "homework": "C语言-基本的标准输入输出",
+      "homework_id": 4139799,
+      "listed_title": "将无符号整数高4位和低4位交换",
+      "position": 2,
+      "public_samples": 4,
+      "shixun": "xasu42lk",
+      "status": "public_samples_passed",
+      "title": "将无符号整数高4位和低4位交换",
+      "answer_files": [
+        "answer/将无符号整数高4位和低4位交换.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/01 输出成绩居中的学生的姓名及成绩",
+      "editable_paths": [
+        "src/step1/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "输出成绩居中的学生的姓名及成绩",
+      "position": 1,
+      "public_samples": 4,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "输出成绩居中的学生的姓名及成绩",
+      "answer_files": [
+        "answer/输出成绩居中的学生的姓名及成绩.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/02 将日期转换成第几天",
+      "editable_paths": [
+        "src/step2/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "将日期转换成第几天",
+      "position": 2,
+      "public_samples": 3,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "将日期转换成第几天",
+      "answer_files": [
+        "answer/将日期转换成第几天.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/03 四则运算（if语句）",
+      "editable_paths": [
+        "src/step3/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "四则运算（if语句）",
+      "position": 3,
+      "public_samples": 3,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "四则运算（if语句）",
+      "answer_files": [
+        "answer/四则运算（if语句）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/04 四则运算（switch语句）",
+      "editable_paths": [
+        "src/step4/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "四则运算（switch语句）",
+      "position": 4,
+      "public_samples": 3,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "四则运算（switch语句）",
+      "answer_files": [
+        "answer/四则运算（switch语句）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/05 斐波那契数列",
+      "editable_paths": [
+        "src/step5/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "斐波那契数列",
+      "position": 5,
+      "public_samples": 2,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "斐波那契数列",
+      "answer_files": [
+        "answer/斐波那契数列.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/06 求Π的近似值",
+      "editable_paths": [
+        "src/step6/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "求Π的近似值",
+      "position": 6,
+      "public_samples": 2,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "求Π的近似值",
+      "answer_files": [
+        "answer/求Π的近似值.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/07 最大公约数和最小公倍数",
+      "editable_paths": [
+        "src/step7/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "最大公约数和最小公倍数",
+      "position": 7,
+      "public_samples": 3,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "最大公约数和最小公倍数",
+      "answer_files": [
+        "answer/最大公约数和最小公倍数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/08 打印符合要求的完全平方数",
+      "editable_paths": [
+        "src/step8/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "打印符合要求的完全平方数",
+      "position": 8,
+      "public_samples": 1,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "打印符合要求的完全平方数",
+      "answer_files": [
+        "answer/打印符合要求的完全平方数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/09 整数个数统计并求均值",
+      "editable_paths": [
+        "src/step9/main.c"
+      ],
+      "homework": "C语言-流程控制",
+      "homework_id": 4139796,
+      "listed_title": "整数个数统计并求均值",
+      "position": 9,
+      "public_samples": 2,
+      "shixun": "tvku76cw",
+      "status": "public_samples_passed",
+      "title": "整数个数统计并求均值",
+      "answer_files": [
+        "answer/整数个数统计并求均值.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/01 模拟投掷骰子游戏",
+      "editable_paths": [
+        "src/Step1/step1_stu.h"
+      ],
+      "homework": "C语言-函数与程序结构",
+      "homework_id": 4139793,
+      "listed_title": "模拟投掷骰子游戏",
+      "position": 1,
+      "public_samples": 3,
+      "shixun": "ycf3a4h6",
+      "status": "public_samples_passed",
+      "title": "模拟投掷骰子游戏",
+      "answer_files": [
+        "answer/模拟投掷骰子游戏.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/02 冰雹数",
+      "editable_paths": [
+        "src/Step2/step2_stu.h",
+        "src/Step2/step2_main.c"
+      ],
+      "homework": "C语言-函数与程序结构",
+      "homework_id": 4139793,
+      "listed_title": "冰雹数",
+      "position": 2,
+      "public_samples": 2,
+      "shixun": "ycf3a4h6",
+      "status": "public_samples_passed",
+      "title": "冰雹数",
+      "answer_files": [
+        "answer/冰雹数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/03 输出整数中指定位数的数值",
+      "editable_paths": [
+        "src/Step3/step3_stu.h",
+        "src/Step3/step3_main.c"
+      ],
+      "homework": "C语言-函数与程序结构",
+      "homework_id": 4139793,
+      "listed_title": "输出整数中指定位数的数值",
+      "position": 3,
+      "public_samples": 3,
+      "shixun": "ycf3a4h6",
+      "status": "public_samples_passed",
+      "title": "输出整数中指定位数的数值",
+      "answer_files": [
+        "answer/输出整数中指定位数的数值.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/04 递归实现标准库函数strlen(s)",
+      "editable_paths": [
+        "src/Step4/step4_stu.h",
+        "src/Step4/step4_main.c"
+      ],
+      "homework": "C语言-函数与程序结构",
+      "homework_id": 4139793,
+      "listed_title": "递归实现标准库函数strlen(s)",
+      "position": 4,
+      "public_samples": 2,
+      "shixun": "ycf3a4h6",
+      "status": "public_samples_passed",
+      "title": "递归实现标准库函数strlen(s)",
+      "answer_files": [
+        "answer/递归实现标准库函数strlen(s).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/05 递归实现逆序",
+      "editable_paths": [
+        "src/Step5/step5_stu.h"
+      ],
+      "homework": "C语言-函数与程序结构",
+      "homework_id": 4139793,
+      "listed_title": "递归实现逆序",
+      "position": 5,
+      "public_samples": 2,
+      "shixun": "ycf3a4h6",
+      "status": "public_samples_passed",
+      "title": "递归实现逆序",
+      "answer_files": [
+        "answer/递归实现逆序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/06 最大公约数",
+      "editable_paths": [
+        "src/Step6/step6_stu.h"
+      ],
+      "homework": "C语言-函数与程序结构",
+      "homework_id": 4139793,
+      "listed_title": "最大公约数",
+      "position": 6,
+      "public_samples": 1,
+      "shixun": "ycf3a4h6",
+      "status": "public_samples_passed",
+      "title": "最大公约数",
+      "answer_files": [
+        "answer/最大公约数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/01 选择法排序",
+      "editable_paths": [
+        "src/Step1/Step1_stu.h"
+      ],
+      "homework": "C语言-数组",
+      "homework_id": 4139790,
+      "listed_title": "选择法排序",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "96tfj5u4",
+      "status": "public_samples_passed",
+      "title": "选择法排序",
+      "answer_files": [
+        "answer/选择法排序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/02 二分段交换",
+      "editable_paths": [
+        "src/step2/Step2_stu.h"
+      ],
+      "homework": "C语言-数组",
+      "homework_id": 4139790,
+      "listed_title": "二分段交换",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "96tfj5u4",
+      "status": "public_samples_passed",
+      "title": "二分段交换",
+      "answer_files": [
+        "answer/二分段交换.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/03 计数器",
+      "editable_paths": [
+        "src/step3/Step3_main.c"
+      ],
+      "homework": "C语言-数组",
+      "homework_id": 4139790,
+      "listed_title": "计数器",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "96tfj5u4",
+      "status": "public_samples_passed",
+      "title": "计数器",
+      "answer_files": [
+        "answer/计数器.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/04 复制字符数组",
+      "editable_paths": [
+        "src/step4/Step4_stu.h"
+      ],
+      "homework": "C语言-数组",
+      "homework_id": 4139790,
+      "listed_title": "复制字符数组",
+      "position": 4,
+      "public_samples": 1,
+      "shixun": "96tfj5u4",
+      "status": "public_samples_passed",
+      "title": "复制字符数组",
+      "answer_files": [
+        "answer/复制字符数组.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/05 进制转换",
+      "editable_paths": [
+        "src/step5/Step5_stu.h"
+      ],
+      "homework": "C语言-数组",
+      "homework_id": 4139790,
+      "listed_title": "进制转换",
+      "position": 5,
+      "public_samples": 1,
+      "shixun": "96tfj5u4",
+      "status": "public_samples_passed",
+      "title": "进制转换",
+      "answer_files": [
+        "answer/进制转换.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/06 回文判断",
+      "editable_paths": [
+        "src/step6/Step6_main.c"
+      ],
+      "homework": "C语言-数组",
+      "homework_id": 4139790,
+      "listed_title": "回文判断",
+      "position": 6,
+      "public_samples": 1,
+      "shixun": "96tfj5u4",
+      "status": "public_samples_passed",
+      "title": "回文判断",
+      "answer_files": [
+        "answer/回文判断.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/01 冒泡排序-指针",
+      "editable_paths": [
+        "src/step1/Step1_stu.h"
+      ],
+      "homework": "C语言-指针",
+      "homework_id": 4139787,
+      "listed_title": "冒泡排序-指针",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "wkblvrs2",
+      "status": "public_samples_passed",
+      "title": "冒泡排序-指针",
+      "answer_files": [
+        "answer/冒泡排序-指针.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/02 数组元素颠倒顺序",
+      "editable_paths": [
+        "src/step2/Step2_stu.h"
+      ],
+      "homework": "C语言-指针",
+      "homework_id": 4139787,
+      "listed_title": "数组元素颠倒顺序",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "wkblvrs2",
+      "status": "public_samples_passed",
+      "title": "数组元素颠倒顺序",
+      "answer_files": [
+        "answer/数组元素颠倒顺序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/03 字符串连接",
+      "editable_paths": [
+        "src/step3/Step3_stu.h"
+      ],
+      "homework": "C语言-指针",
+      "homework_id": 4139787,
+      "listed_title": "字符串连接",
+      "position": 3,
+      "public_samples": 1,
+      "shixun": "wkblvrs2",
+      "status": "public_samples_passed",
+      "title": "字符串连接",
+      "answer_files": [
+        "answer/字符串连接.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/01 设计日期结构类型",
+      "editable_paths": [
+        "src/step1/Step_main.c"
+      ],
+      "homework": "C语言-结构与联合",
+      "homework_id": 4139785,
+      "listed_title": "设计日期结构类型",
+      "position": 1,
+      "public_samples": 3,
+      "shixun": "bymko2ph",
+      "status": "public_samples_passed",
+      "title": "设计日期结构类型",
+      "answer_files": [
+        "answer/设计日期结构类型.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/02 结构体数组的使用",
+      "editable_paths": [
+        "src/step2/Step_stu.h"
+      ],
+      "homework": "C语言-结构与联合",
+      "homework_id": 4139785,
+      "listed_title": "结构体数组的使用",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "bymko2ph",
+      "status": "public_samples_passed",
+      "title": "结构体数组的使用",
+      "answer_files": [
+        "answer/结构体数组的使用.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/03 结构体元素排序",
+      "editable_paths": [
+        "src/step3/Step3_main.c"
+      ],
+      "homework": "C语言-结构与联合",
+      "homework_id": 4139785,
+      "listed_title": "结构体元素排序",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "bymko2ph",
+      "status": "public_samples_passed",
+      "title": "结构体元素排序",
+      "answer_files": [
+        "answer/结构体元素排序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/04 链表的使用",
+      "editable_paths": [
+        "src/step4/Step4_main.c"
+      ],
+      "homework": "C语言-结构与联合",
+      "homework_id": 4139785,
+      "listed_title": "链表的使用",
+      "position": 4,
+      "public_samples": 1,
+      "shixun": "bymko2ph",
+      "status": "public_samples_passed",
+      "title": "链表的使用",
+      "answer_files": [
+        "answer/链表的使用.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-文件的输入与输出 [4139782]/01 文件的读操作",
+      "editable_paths": [
+        "src/step1/Step1_main.c"
+      ],
+      "homework": "C语言-文件的输入与输出",
+      "homework_id": 4139782,
+      "listed_title": "文件的读操作",
+      "position": 1,
+      "public_samples": 3,
+      "shixun": "fv8ojsaf",
+      "status": "public_samples_passed",
+      "title": "文件的读操作",
+      "answer_files": [
+        "answer/文件的读操作.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-文件的输入与输出 [4139782]/02 文件连接",
+      "editable_paths": [
+        "src/step2/Step2_stu.h"
+      ],
+      "homework": "C语言-文件的输入与输出",
+      "homework_id": 4139782,
+      "listed_title": "文件连接",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "fv8ojsaf",
+      "status": "public_samples_passed",
+      "title": "文件连接",
+      "answer_files": [
+        "answer/文件连接.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/01 程序改错与跟踪调试",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "程序改错与跟踪调试",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "public_samples_passed",
+      "title": "程序改错与跟踪调试",
+      "answer_files": [
+        "answer/程序改错与跟踪调试.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/02 各位数字之和",
+      "editable_paths": [
+        "src/step2/step2_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "各位数字之和",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "public_samples_passed",
+      "title": "各位数字之和",
+      "answer_files": [
+        "answer/各位数字之和.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/03 折点",
+      "editable_paths": [
+        "src/step3/step3_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "折点",
+      "position": 3,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "public_samples_passed",
+      "title": "折点",
+      "answer_files": [
+        "answer/折点.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/04 手机号码的判断",
+      "editable_paths": [
+        "src/step4/step4_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "手机号码的判断",
+      "position": 4,
+      "public_samples": 4,
+      "shixun": "54hb3zkc",
+      "status": "public_samples_passed",
+      "title": "手机号码的判断",
+      "answer_files": [
+        "answer/手机号码的判断.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/05 取出一个整数的连续若干位",
+      "editable_paths": [
+        "src/step5/step5_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "取出一个整数的连续若干位",
+      "position": 5,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "skipped_missing_specification",
+      "title": "取出一个整数的连续若干位",
+      "answer_files": []
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/06 IP地址",
+      "editable_paths": [
+        "src/step6/step6_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "IP地址",
+      "position": 6,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "public_samples_passed",
+      "title": "IP地址",
+      "answer_files": [
+        "answer/IP地址.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/07 字符转换",
+      "editable_paths": [
+        "src/step8/step8_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "字符转换",
+      "position": 7,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "skipped_missing_specification",
+      "title": "字符转换",
+      "answer_files": []
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/08 文本统计",
+      "editable_paths": [
+        "src/step10/step10_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "文本统计",
+      "position": 8,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "public_samples_passed",
+      "title": "文本统计",
+      "answer_files": [
+        "answer/文本统计.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/09 数据加密",
+      "editable_paths": [
+        "src/step13/step13_main.c"
+      ],
+      "homework": "C语言-实验二 C语言基本语法元素",
+      "homework_id": 4139779,
+      "listed_title": "数据加密",
+      "position": 9,
+      "public_samples": 1,
+      "shixun": "54hb3zkc",
+      "status": "skipped_missing_specification",
+      "title": "数据加密",
+      "answer_files": []
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/01 源程序完善和修改替换2.(1)",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言-实验八 文件操作实验",
+      "homework_id": 4139776,
+      "listed_title": "源程序完善和修改替换2.(1)",
+      "position": 1,
+      "public_samples": 2,
+      "shixun": "2fl3zfqs",
+      "status": "public_samples_passed",
+      "title": "源程序完善和修改替换2.(1)",
+      "answer_files": [
+        "answer/源程序完善和修改替换2.(1).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/02 源程序完善和修改替换2.(2)",
+      "editable_paths": [
+        "src/step2/step2_main.c"
+      ],
+      "homework": "C语言-实验八 文件操作实验",
+      "homework_id": 4139776,
+      "listed_title": "源程序完善和修改替换2.(2)",
+      "position": 2,
+      "public_samples": 2,
+      "shixun": "2fl3zfqs",
+      "status": "public_samples_passed",
+      "title": "源程序完善和修改替换2.(2)",
+      "answer_files": [
+        "answer/源程序完善和修改替换2.(2).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/03 字符串替换3.(1)",
+      "editable_paths": [
+        "src/step3/step3_main.c"
+      ],
+      "homework": "C语言-实验八 文件操作实验",
+      "homework_id": 4139776,
+      "listed_title": "字符串替换3.(1)",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "2fl3zfqs",
+      "status": "public_samples_passed",
+      "title": "字符串替换3.(1)",
+      "answer_files": [
+        "answer/字符串替换3.(1).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/04 单精度浮点数读写",
+      "editable_paths": [
+        "src/step4/step4_main.c"
+      ],
+      "homework": "C语言-实验八 文件操作实验",
+      "homework_id": 4139776,
+      "listed_title": "单精度浮点数读写",
+      "position": 4,
+      "public_samples": 2,
+      "shixun": "2fl3zfqs",
+      "status": "public_samples_passed",
+      "title": "单精度浮点数读写",
+      "answer_files": [
+        "answer/单精度浮点数读写.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/05 班级成绩单3.(2)",
+      "editable_paths": [
+        "src/step5/step5_main.c"
+      ],
+      "homework": "C语言-实验八 文件操作实验",
+      "homework_id": 4139776,
+      "listed_title": "班级成绩单3.(2)",
+      "position": 5,
+      "public_samples": 2,
+      "shixun": "2fl3zfqs",
+      "status": "public_samples_passed",
+      "title": "班级成绩单3.(2)",
+      "answer_files": [
+        "answer/班级成绩单3.(2).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/06 旋转图像3.(3)",
+      "editable_paths": [
+        "src/step6/step6_main.c"
+      ],
+      "homework": "C语言-实验八 文件操作实验",
+      "homework_id": 4139776,
+      "listed_title": "旋转图像3.(3)",
+      "position": 6,
+      "public_samples": 2,
+      "shixun": "2fl3zfqs",
+      "status": "public_samples_passed",
+      "title": "旋转图像3.(3)",
+      "answer_files": [
+        "answer/旋转图像3.(3).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/01 表达式求值的程序验证",
+      "editable_paths": [
+        "src/step1/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "表达式求值的程序验证",
+      "position": 1,
+      "public_samples": 0,
+      "shixun": "imszrkxv",
+      "status": "skipped_missing_specification",
+      "title": "表达式求值的程序验证",
+      "answer_files": []
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/02 源程序修改替换（一）",
+      "editable_paths": [
+        "src/step2/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "源程序修改替换（一）",
+      "position": 2,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "源程序修改替换（一）",
+      "answer_files": [
+        "answer/源程序修改替换（一）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/03 源程序修改替换（二）",
+      "editable_paths": [
+        "src/step3/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "源程序修改替换（二）",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "源程序修改替换（二）",
+      "answer_files": [
+        "answer/源程序修改替换（二）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/04 设计字段结构",
+      "editable_paths": [
+        "src/step4/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "设计字段结构",
+      "position": 4,
+      "public_samples": 3,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "设计字段结构",
+      "answer_files": [
+        "answer/设计字段结构.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/05 班级成绩单",
+      "editable_paths": [
+        "src/step5/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "班级成绩单",
+      "position": 5,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "班级成绩单",
+      "answer_files": [
+        "answer/班级成绩单.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/06 成绩排序（一）",
+      "editable_paths": [
+        "src/step6/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "成绩排序（一）",
+      "position": 6,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "成绩排序（一）",
+      "answer_files": [
+        "answer/成绩排序（一）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/07 回文字符串",
+      "editable_paths": [
+        "src/step7/stu.h"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "回文字符串",
+      "position": 7,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "回文字符串",
+      "answer_files": [
+        "answer/回文字符串.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/08 成绩排序（二）",
+      "editable_paths": [
+        "src/step8/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "成绩排序（二）",
+      "position": 8,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "成绩排序（二）",
+      "answer_files": [
+        "answer/成绩排序（二）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/09 逆波兰表达式",
+      "editable_paths": [
+        "src/step9/main.c"
+      ],
+      "homework": "C语言-实验七 结构与联合",
+      "homework_id": 4139773,
+      "listed_title": "逆波兰表达式",
+      "position": 9,
+      "public_samples": 2,
+      "shixun": "imszrkxv",
+      "status": "public_samples_passed",
+      "title": "逆波兰表达式",
+      "answer_files": [
+        "answer/逆波兰表达式.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/01 斐波那契级数",
+      "editable_paths": [
+        "src/step10/stu.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "斐波那契级数",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "斐波那契级数",
+      "answer_files": [
+        "answer/斐波那契级数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/02 调试计算圆面积",
+      "editable_paths": [
+        "src/step11/stu.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "调试计算圆面积",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "调试计算圆面积",
+      "answer_files": [
+        "answer/调试计算圆面积.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/03 程序改错",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "程序改错",
+      "position": 3,
+      "public_samples": 1,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "程序改错",
+      "answer_files": [
+        "answer/程序改错.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/04 程序修改替换(1)",
+      "editable_paths": [
+        "src/step6/step6_main.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "程序修改替换(1)",
+      "position": 4,
+      "public_samples": 0,
+      "shixun": "9wrkblco",
+      "status": "statement_examples_passed",
+      "title": "程序修改替换(1)",
+      "answer_files": [
+        "answer/程序修改替换(1).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/05 程序修改替换(2)",
+      "editable_paths": [
+        "src/step7/step7_main.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "程序修改替换(2)",
+      "position": 5,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "程序修改替换(2)",
+      "answer_files": [
+        "answer/程序修改替换(2).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/06 歌德巴赫猜想",
+      "editable_paths": [
+        "src/step2/step2_func.h"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "歌德巴赫猜想",
+      "position": 6,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "歌德巴赫猜想",
+      "answer_files": [
+        "answer/歌德巴赫猜想.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/07 完全数",
+      "editable_paths": [
+        "src/step3/step3_func.h"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "完全数",
+      "position": 7,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "完全数",
+      "answer_files": [
+        "answer/完全数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/08 三角形面积",
+      "editable_paths": [
+        "src/step4/step4_main.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "三角形面积",
+      "position": 8,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "三角形面积",
+      "answer_files": [
+        "answer/三角形面积.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/09 条件编译(1)",
+      "editable_paths": [
+        "src/step8/main.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "条件编译(1)",
+      "position": 9,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "条件编译(1)",
+      "answer_files": [
+        "answer/条件编译(1).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/10 条件编译(2)",
+      "editable_paths": [
+        "src/step9/main.c"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "条件编译(2)",
+      "position": 10,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "条件编译(2)",
+      "answer_files": [
+        "answer/条件编译(2).c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/11 多文件C程序",
+      "editable_paths": [
+        "src/step5/file1.c",
+        "src/step5/file2.c",
+        "src/step5/file.h"
+      ],
+      "homework": "C语言-实验四 函数与编译预处理",
+      "homework_id": 4139769,
+      "listed_title": "多文件C程序",
+      "position": 11,
+      "public_samples": 2,
+      "shixun": "9wrkblco",
+      "status": "public_samples_passed",
+      "title": "多文件C程序",
+      "answer_files": [
+        "answer/file.h",
+        "answer/file2.c",
+        "answer/多文件C程序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/01 程序改错与跟踪调试",
+      "editable_paths": [
+        "src/step1/step_mian.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "程序改错与跟踪调试",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "程序改错与跟踪调试",
+      "answer_files": [
+        "answer/程序改错与跟踪调试.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/02 去掉重复的字符（填空）",
+      "editable_paths": [
+        "src/step11/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "去掉重复的字符（填空）",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "去掉重复的字符（填空）",
+      "answer_files": [
+        "answer/去掉重复的字符（填空）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/03 去掉重复字符（改进）",
+      "editable_paths": [
+        "src/step2/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "去掉重复字符（改进）",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "去掉重复字符（改进）",
+      "answer_files": [
+        "answer/去掉重复字符（改进）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/04 约瑟夫问题（填空）",
+      "editable_paths": [
+        "src/step12/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "约瑟夫问题（填空）",
+      "position": 4,
+      "public_samples": 1,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "约瑟夫问题（填空）",
+      "answer_files": [
+        "answer/约瑟夫问题（填空）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/05 解约瑟夫问题（改进）",
+      "editable_paths": [
+        "src/step3/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "解约瑟夫问题（改进）",
+      "position": 5,
+      "public_samples": 1,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "解约瑟夫问题（改进）",
+      "answer_files": [
+        "answer/解约瑟夫问题（改进）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/06 整数的二进制表示",
+      "editable_paths": [
+        "src/step4/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "整数的二进制表示",
+      "position": 6,
+      "public_samples": 2,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "整数的二进制表示",
+      "answer_files": [
+        "answer/整数的二进制表示.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/07 成绩排序",
+      "editable_paths": [
+        "src/step5/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "成绩排序",
+      "position": 7,
+      "public_samples": 2,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "成绩排序",
+      "answer_files": [
+        "answer/成绩排序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/08 二分查找",
+      "editable_paths": [
+        "src/step6/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "二分查找",
+      "position": 8,
+      "public_samples": 3,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "二分查找",
+      "answer_files": [
+        "answer/二分查找.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/09 插入字符串",
+      "editable_paths": [
+        "src/step7/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "插入字符串",
+      "position": 9,
+      "public_samples": 2,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "插入字符串",
+      "answer_files": [
+        "answer/插入字符串.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/10 消除类游戏",
+      "editable_paths": [
+        "src/step8/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "消除类游戏",
+      "position": 10,
+      "public_samples": 2,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "消除类游戏",
+      "answer_files": [
+        "answer/消除类游戏.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/11 N阶顺转方阵",
+      "editable_paths": [
+        "src/step9/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "N阶顺转方阵",
+      "position": 11,
+      "public_samples": 2,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "N阶顺转方阵",
+      "answer_files": [
+        "answer/N阶顺转方阵.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/12 迷宫问题",
+      "editable_paths": [
+        "src/step10/step_main.c"
+      ],
+      "homework": "C语言-实验五-数组",
+      "homework_id": 4139765,
+      "listed_title": "迷宫问题",
+      "position": 12,
+      "public_samples": 3,
+      "shixun": "mc8urtsq",
+      "status": "public_samples_passed",
+      "title": "迷宫问题",
+      "answer_files": [
+        "answer/迷宫问题.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/01 程序改错----合数判断器",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "程序改错----合数判断器",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "程序改错----合数判断器",
+      "answer_files": [
+        "answer/程序改错----合数判断器.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/02 程序修改替换（1）",
+      "editable_paths": [
+        "src/step11/step11_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "程序修改替换（1）",
+      "position": 2,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "程序修改替换（1）",
+      "answer_files": [
+        "answer/程序修改替换（1）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/03 程序修改替换（2）",
+      "editable_paths": [
+        "src/step12/step12_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "程序修改替换（2）",
+      "position": 3,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "程序修改替换（2）",
+      "answer_files": [
+        "answer/程序修改替换（2）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/04 纯粹合数求解器",
+      "editable_paths": [
+        "src/step2/step2_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "纯粹合数求解器",
+      "position": 4,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "纯粹合数求解器",
+      "answer_files": [
+        "answer/纯粹合数求解器.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/05 税金计算",
+      "editable_paths": [
+        "src/step3/step3_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "税金计算",
+      "position": 5,
+      "public_samples": 3,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "税金计算",
+      "answer_files": [
+        "answer/税金计算.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/06 n位数平方的末尾n位和原数相同",
+      "editable_paths": [
+        "src/step4/step4_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "n位数平方的末尾n位和原数相同",
+      "position": 6,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "n位数平方的末尾n位和原数相同",
+      "answer_files": [
+        "answer/n位数平方的末尾n位和原数相同.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/07 n天股票最大波动值",
+      "editable_paths": [
+        "src/step5/step5_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "n天股票最大波动值",
+      "position": 7,
+      "public_samples": 1,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "n天股票最大波动值",
+      "answer_files": [
+        "answer/n天股票最大波动值.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/08 去除重复空格",
+      "editable_paths": [
+        "src/step6/step6_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "去除重复空格",
+      "position": 8,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "去除重复空格",
+      "answer_files": [
+        "answer/去除重复空格.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/09 打印n行杨辉三角",
+      "editable_paths": [
+        "src/step7/step7_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "打印n行杨辉三角",
+      "position": 9,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "打印n行杨辉三角",
+      "answer_files": [
+        "answer/打印n行杨辉三角.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/10 梅森素数",
+      "editable_paths": [
+        "src/step8/step8_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "梅森素数",
+      "position": 10,
+      "public_samples": 1,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "梅森素数",
+      "answer_files": [
+        "answer/梅森素数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/11 孪生素数",
+      "editable_paths": [
+        "src/step9/step9_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "孪生素数",
+      "position": 11,
+      "public_samples": 1,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "孪生素数",
+      "answer_files": [
+        "answer/孪生素数.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/12 输出abcde%002Ffghij=x表达式",
+      "editable_paths": [
+        "src/step10/step10_main.c"
+      ],
+      "homework": "C语言-实验三 流程控制",
+      "homework_id": 4139760,
+      "listed_title": "输出abcde/fghij=x表达式",
+      "position": 12,
+      "public_samples": 2,
+      "shixun": "xavozqji",
+      "status": "public_samples_passed",
+      "title": "输出abcde/fghij=x表达式",
+      "answer_files": [
+        "answer/输出abcde%002Ffghij=x表达式.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/01 程序改错与跟踪调试",
+      "editable_paths": [
+        "src/step1/step1_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "程序改错与跟踪调试",
+      "position": 1,
+      "public_samples": 1,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "程序改错与跟踪调试",
+      "answer_files": [
+        "answer/程序改错与跟踪调试.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/02 程序完善和修改替换--字符串排序（填空）",
+      "editable_paths": [
+        "src/step2/step2_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "程序完善和修改替换--字符串排序（填空）",
+      "position": 2,
+      "public_samples": 1,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "程序完善和修改替换--字符串排序（填空）",
+      "answer_files": [
+        "answer/程序完善和修改替换--字符串排序（填空）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/03 程序完善和修改替换--字符串排序（改进）",
+      "editable_paths": [
+        "src/step3/step3_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "程序完善和修改替换--字符串排序（改进）",
+      "position": 3,
+      "public_samples": 1,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "程序完善和修改替换--字符串排序（改进）",
+      "answer_files": [
+        "answer/程序完善和修改替换--字符串排序（改进）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/04 程序完善和修改替换--函数指针（填空）",
+      "editable_paths": [
+        "src/step4/step4_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "程序完善和修改替换--函数指针（填空）",
+      "position": 4,
+      "public_samples": 2,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "程序完善和修改替换--函数指针（填空）",
+      "answer_files": [
+        "answer/程序完善和修改替换--函数指针（填空）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/05 程序完善和修改替换--函数指针数组（改进）",
+      "editable_paths": [
+        "src/step5/step5_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "程序完善和修改替换--函数指针数组（改进）",
+      "position": 5,
+      "public_samples": 1,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "程序完善和修改替换--函数指针数组（改进）",
+      "answer_files": [
+        "answer/程序完善和修改替换--函数指针数组（改进）.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/06 通过指针取出字节",
+      "editable_paths": [
+        "src/step6/step6_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "通过指针取出字节",
+      "position": 6,
+      "public_samples": 1,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "通过指针取出字节",
+      "answer_files": [
+        "answer/通过指针取出字节.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/07 删除重复元素",
+      "editable_paths": [
+        "src/step7/step7_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "删除重复元素",
+      "position": 7,
+      "public_samples": 2,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "删除重复元素",
+      "answer_files": [
+        "answer/删除重复元素.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/08 旋转图像",
+      "editable_paths": [
+        "src/step8/step8_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "旋转图像",
+      "position": 8,
+      "public_samples": 1,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "旋转图像",
+      "answer_files": [
+        "answer/旋转图像.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/09 命令行实现对N个整数排序",
+      "editable_paths": [
+        "src/step9/step9_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "命令行实现对N个整数排序",
+      "position": 9,
+      "public_samples": 2,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "命令行实现对N个整数排序",
+      "answer_files": [
+        "answer/命令行实现对N个整数排序.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/10 删除子串",
+      "editable_paths": [
+        "src/step10/step10_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "删除子串",
+      "position": 10,
+      "public_samples": 3,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "删除子串",
+      "answer_files": [
+        "answer/删除子串.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/11 非负整数积",
+      "editable_paths": [
+        "src/step11/step11_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "非负整数积",
+      "position": 11,
+      "public_samples": 2,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "非负整数积",
+      "answer_files": [
+        "answer/非负整数积.c"
+      ]
+    },
+    {
+      "course": "C语言程序设计2026秋",
+      "course_id": 124111,
+      "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/12 函数调度",
+      "editable_paths": [
+        "src/step12/step12_main.c"
+      ],
+      "homework": "C语言-实验六 指针",
+      "homework_id": 4139757,
+      "listed_title": "函数调度",
+      "position": 12,
+      "public_samples": 2,
+      "shixun": "72lrs69a",
+      "status": "public_samples_passed",
+      "title": "函数调度",
+      "answer_files": [
+        "answer/函数调度.c"
+      ]
+    }
+  ]
+}

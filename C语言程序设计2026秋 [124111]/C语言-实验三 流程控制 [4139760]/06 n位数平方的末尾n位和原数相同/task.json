@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/06 n位数平方的末尾n位和原数相同",
+  "editable_paths": [
+    "src/step4/step4_main.c"
+  ],
+  "homework": "C语言-实验三 流程控制",
+  "homework_id": 4139760,
+  "listed_title": "n位数平方的末尾n位和原数相同",
+  "position": 6,
+  "public_samples": 2,
+  "shixun": "xavozqji",
+  "status": "public_samples_passed",
+  "title": "n位数平方的末尾n位和原数相同",
+  "answer_files": [
+    "answer/n位数平方的末尾n位和原数相同.c"
+  ]
+}

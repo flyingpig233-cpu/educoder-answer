@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/04 完数",
+  "editable_paths": [
+    "src/step3/step3_main.c"
+  ],
+  "homework": "C语言  实验一：熟悉C程序的运行和调试方法",
+  "homework_id": 4139813,
+  "listed_title": "完数",
+  "position": 4,
+  "public_samples": 1,
+  "shixun": "c98sofjx",
+  "status": "public_samples_passed",
+  "title": "完数",
+  "answer_files": [
+    "answer/完数.c"
+  ]
+}

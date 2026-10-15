@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/06 歌德巴赫猜想",
+  "editable_paths": [
+    "src/step2/step2_func.h"
+  ],
+  "homework": "C语言-实验四 函数与编译预处理",
+  "homework_id": 4139769,
+  "listed_title": "歌德巴赫猜想",
+  "position": 6,
+  "public_samples": 2,
+  "shixun": "9wrkblco",
+  "status": "public_samples_passed",
+  "title": "歌德巴赫猜想",
+  "answer_files": [
+    "answer/歌德巴赫猜想.c"
+  ]
+}

@@ -1,0 +1,2242 @@
+[
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/01 完全平方数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/完全平方数.c": "35d98ed724bb7deef5b83775bdcbd5a92604936899f31358461b2110e370b20d"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/02 字符数和行数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/字符数和行数.c": "72fa52edfbc6f9ee9e2a49f99182fef99be5ffdcb1eeacae15c89856c1f9093a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/03 第几天",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/第几天.c": "c9b9756f2ce88f1948d994ccf60afe99d8d7a181acfa5062a9ae2addc197801a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/04 完数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/完数.c": "3a184abdf61121d926f4575a6ec2071c89b68440d36b1adfd0506e02ffee4eda"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/05 最大的数字",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/最大的数字.c": "6cccb25fc3f8dc5a37138d22d1da54c01b671a94a4ca2d80d77ed45ee6fd936f"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言  实验一：熟悉C程序的运行和调试方法 [4139813]/06 反转字符串",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/反转字符串.c": "e1c692e51c33ca9e28d2fbf02d5984a90309aed1d27a57359ad16eab978b3008"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/01 Hello,World!",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/Hello,World!.c": "a2c1bcf4d7c362944df5fad2b8531a96d046075fc5d5c613f639739bb2c614b6"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/02 两数之和",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/两数之和.c": "4a6059a7d534f2ca4bb976cb972f73f6e10a3d7a56bd60d4f99cd7eeb52dc1cb"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/03 人机问候",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/人机问候.c": "4baaceaef04e9ed18568030fd32762737703c7af6402b886222b04848e3a0406"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/04 整数的个位数字",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/整数的个位数字.c": "eedafe42d76aa802c202ff5787f698b9882846f8c739611d5ffefe12eab039b9"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-概述 [4139806]/01 累加求和",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/累加求和.c": "6db6ec3ed2bba19f69aebbaf8e0b86cb5907b1f6f3ebc68db5d17a1ac059f235"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-概述 [4139806]/02 正数和与平均值",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/正数和与平均值.c": "4ca7a72eea2e1d5b744cb47c72d80e4b9328c43c20f74f336d65904351cae024"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/01 两整数高低字节组合成一个新整数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/两整数高低字节组合成一个新整数.c": "9eca1792ae7b67c9796403a105aed2ca813a02d6317dd2fdc853329158751f7d"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/02 将整数向右循环移动n位",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/将整数向右循环移动n位.c": "02bfe36e8787e0af5c90f3b2c7dd58435ab4f593350063f9d98006bfe1faac57"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/03 翻转指定范围内的二进制位",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/翻转指定范围内的二进制位.c": "6d5ccc0952ac5dbdb687c39f01376bb21c77e50bffaf679e4a158d57a9aa62d0"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/04 求三个数中最大值",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/求三个数中最大值.c": "ec04cff5affef611f9a5b22bcbbf0e61d07ab0da3d2bdde6f0ca68a2eac60d62"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/05 被3整除且个位数字为5",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/被3整除且个位数字为5.c": "32d5b98b05132ab748c80fb287853f9289380dd742e488041438ff73219509cb"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/06 输出对应年份的各月名称及天数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/输出对应年份的各月名称及天数.c": "5bab6e53d4a77214c2efaf497b4b94e9ea833e5c55c0e509c0d8cf1dcf05f6ec"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-基本的标准输入输出 [4139799]/01 十六进制数字字符",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/十六进制数字字符.c": "e412b5e0ae737ac6d4adae7d9e9d69c53e8e85c2870f380a1e2311cf932bf7ac"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-基本的标准输入输出 [4139799]/02 将无符号整数高4位和低4位交换",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/将无符号整数高4位和低4位交换.c": "d6b4afa96fa6c9374147e8767890e3eb3390ac99028bb79ff568ce8b7f1b0cf1"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/01 输出成绩居中的学生的姓名及成绩",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/输出成绩居中的学生的姓名及成绩.c": "5bfb6d13edb1d3d2742f8cc7c84b1b2749d866e61dfbd3ee8a948b1346f7816a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/02 将日期转换成第几天",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/将日期转换成第几天.c": "46815c22611537910908ba16ccc032d2efba8446fd1b0e7e33901b081304579f"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/03 四则运算（if语句）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/四则运算（if语句）.c": "fe0882ff06cc0fd5bd3abc84e139bb18d177f128fbaa3b432a342923fe508a7b"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/04 四则运算（switch语句）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/四则运算（switch语句）.c": "e72e39cb8cf4f87baa9111165afc1cb717af03e9385c32c7130148a9031089b2"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/05 斐波那契数列",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/斐波那契数列.c": "1fb5485dc868735c8258231e85b6668d8b0df4395283735bc5899c8b0d4c4591"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/06 求Π的近似值",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/求Π的近似值.c": "68bf8a97abd1d65b9a4b0c236ac86c29508d3f18a8fc7ac616a1401fae96840f"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/07 最大公约数和最小公倍数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/最大公约数和最小公倍数.c": "1f59898b1eef8a1e52cf24c06800436bc79783aa91e0dc3970ff3a1a62dbe513"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/08 打印符合要求的完全平方数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/打印符合要求的完全平方数.c": "bc6108ffc1af2cac15f01219097e00f945a7850c0e25d033dd262f093b72c32c"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/09 整数个数统计并求均值",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/整数个数统计并求均值.c": "ea95e65a563a201849c87f72e11c53620f8e683ca95f1349b70515d2a6dd528d"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/01 模拟投掷骰子游戏",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/模拟投掷骰子游戏.c": "9d2210a6d52372024226de5e24a507ba482f7b783848d0a4322973fc84bdcfb7"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/02 冰雹数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/冰雹数.c": "bc752139a2714abed0fb16bdc37f45ca54b199cadf0763c999af76acf07b8567"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/03 输出整数中指定位数的数值",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/输出整数中指定位数的数值.c": "6c50d78379380a2cbe607c89c7fd0cc6f92aa7f40b236519a9f6475be501cef1"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/04 递归实现标准库函数strlen(s)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/递归实现标准库函数strlen(s).c": "2e251f2a59c7cff56944af2adbd249f97e19dc05c5f374501057abb440f1526c"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/05 递归实现逆序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/递归实现逆序.c": "78943c27daee4bdf98cae30811be1dfbeb84cc49bf8c77665142f95c22616ad1"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/06 最大公约数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/最大公约数.c": "e7c9d3df5be30a7d92426bc24c3318ee370bd570f010675f9ff42bbbb0a03980"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/01 选择法排序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/选择法排序.c": "b667a241ea8d31db91498e5955b7c0e6269a404a39fc983713cdcd56f21b68df"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/02 二分段交换",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/二分段交换.c": "afc94dd2100aa6584c34b10076a785e287c19b9fef0e529ea406571c05f69fcc"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/03 计数器",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/计数器.c": "980bfaa865cdcd05af844ff1dfb3a5967d847b23137a311409d8acbd2b5bbcb4"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/04 复制字符数组",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/复制字符数组.c": "5490afafaa33c590d8b3a702f1d7174f66785bd46dc9ad0e2e31583cda93c538"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/05 进制转换",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/进制转换.c": "744ca51c6ac82387941b22cd2db150a17d03912d23cbfc8801dae566661137c4"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-数组 [4139790]/06 回文判断",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/回文判断.c": "9203a579cb21824d200328c277029b1222cf9c7422442442dcc635632ed4ba24"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/01 冒泡排序-指针",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/冒泡排序-指针.c": "b88ff67798d129b7edf8035aa440bfd1219dd3358116e1fba345a59ea85f384c"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/02 数组元素颠倒顺序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/数组元素颠倒顺序.c": "4720e9bef78b029a57d22f4044ce2389158996fa003ccb760284065d51529369"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-指针 [4139787]/03 字符串连接",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/字符串连接.c": "60fff496218fade13aa2eca5f91be4d9e3864f20b28c0dd0fe2428091cbceecd"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/01 设计日期结构类型",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 8",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/设计日期结构类型.c": "702755375740d7eaa0bb4f7684f384882a4aa532b6b8e85d3e374305c92455f7"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/02 结构体数组的使用",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/结构体数组的使用.c": "cc939ea837a7d6ffd82d38913137de827e649ee08c5fd8de3ab35cf67480f27a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/03 结构体元素排序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/结构体元素排序.c": "c6251a1611460e886fc5f634b4cf68e1cd25d45f120315a542a0f7f88b4e6f67"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-结构与联合 [4139785]/04 链表的使用",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/链表的使用.c": "7f6bce90e2d699ce942a000abd841fa2ff066a08ec70905e138ca71dbe15fa36"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-文件的输入与输出 [4139782]/01 文件的读操作",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/文件的读操作.c": "f2a5ab9870e4a6e159916deed53f6a146057b7a81104c2fd74d72fd3b7365f94"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-文件的输入与输出 [4139782]/02 文件连接",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/文件连接.c": "8c0e5acd3635eae0e0bc5bb7672ce7f33723c6d41e15efd4a543aee619c77e63"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/01 程序改错与跟踪调试",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序改错与跟踪调试.c": "ecc6b928d4126cef6ad5b5d9861f8ed21670fd8a3183104b772e56795b127547"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/02 各位数字之和",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/各位数字之和.c": "1e94b08ab7b8d87e29942693832a1608ed8eb01f5f99273d47c48c865f6870ef"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/03 折点",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/折点.c": "c0de20e1bea852673eb6a3b995be5d3610a67e4f57aaa1d6df2ba76f33dc104c"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/04 手机号码的判断",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/手机号码的判断.c": "083e86fda7cbc5901fe7bb0f0b91cd24ada275c2146d082ae7c8a61aa40b1a7d"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/05 取出一个整数的连续若干位",
+    "passed": false,
+    "samples": [],
+    "skipped": "题面未说明完整位序、位宽和对齐规则，按用户要求留空。",
+    "answer_sha256": {}
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/06 IP地址",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/IP地址.c": "f881ffaa89b4ff7c959bcddc95e62e55dbf13a59dd0c3d9bd8ba44f1183a8a1c"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/07 字符转换",
+    "passed": false,
+    "samples": [],
+    "skipped": "题面描述与公开样例不一致，缺少教材完整转换规则，按用户要求留空。",
+    "answer_sha256": {}
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/08 文本统计",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/文本统计.c": "7908105af1f47379935905f3f39a659d5d5b0005276d141b9f96cadad4acb4b0"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/09 数据加密",
+    "passed": false,
+    "samples": [],
+    "skipped": "缺少教材数据加密算法，按用户要求留空。",
+    "answer_sha256": {}
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/01 源程序完善和修改替换2.(1)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/源程序完善和修改替换2.(1).c": "1bfafc25315d598b2275b7852cbba984e352faa98dd7b861cbdb46d7e4649b7b"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/02 源程序完善和修改替换2.(2)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/源程序完善和修改替换2.(2).c": "0668b2c30e829d2e537e3614b22177d6f9b09bf1d62ad8d7be3295d4cce52185"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/03 字符串替换3.(1)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/字符串替换3.(1).c": "f59aab6cb199e55f200cf42f3a58b01784e9c8b581da6554304b40c53c88c635"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/04 单精度浮点数读写",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/单精度浮点数读写.c": "455653d47f601802dfec16273ae222f3f545b37f45bd54f2242031eb95921b21"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/05 班级成绩单3.(2)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/班级成绩单3.(2).c": "0bf51ccf27a4df36a3a2baa6ab5bf7b1dd1581a6a191123d61e10b5c25e34e34"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/06 旋转图像3.(3)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/旋转图像3.(3).c": "8f87f54f168058a242be4c2c199df4cb4802b678f6c066183c05948fee1a9295"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/01 表达式求值的程序验证",
+    "passed": false,
+    "samples": [],
+    "skipped": "教材表达式清单未提供，题面示例明确是假定值，无公开测试集；按用户要求留空。",
+    "answer_sha256": {}
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/02 源程序修改替换（一）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/源程序修改替换（一）.c": "af6f287aec81875ea74f3840c700e0aae10d0f61b4a17599f761d0c4cc33c899"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/03 源程序修改替换（二）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/源程序修改替换（二）.c": "4d5d6ec92a5270c38f7463111786d7a9cc1e153accf74ab542951b6f8ec944e7"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/04 设计字段结构",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/设计字段结构.c": "61b27b4e8e56141246683138e0325ed5c18df6e708b1c877f0821412634f28d9"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/05 班级成绩单",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/班级成绩单.c": "0bf51ccf27a4df36a3a2baa6ab5bf7b1dd1581a6a191123d61e10b5c25e34e34"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/06 成绩排序（一）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/成绩排序（一）.c": "88a2d745777e102895b2570ca1d04555f85fefbc8c6cae98934910914fc4585e"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/07 回文字符串",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/回文字符串.c": "2beef6f70bd97b656fc48ddc435f33a8c5088430878d921452519fa13fdd9622"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/08 成绩排序（二）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/成绩排序（二）.c": "ff0182016a16fc95ef37b2b0a58bad5267fa32c825e5820b4e51fffbd0990cd6"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/09 逆波兰表达式",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/逆波兰表达式.c": "609855bed3c36f1e0b87a4145ba91fd9f5c1d677df0035ab354ebd5622525084"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/01 斐波那契级数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/斐波那契级数.c": "0f8ffb0bab537895873caa1b01acad8bee1aa9687789654f1253bf8aa357730b"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/02 调试计算圆面积",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/调试计算圆面积.c": "51f6987430378e33ca16eeabaa939a400737cfae55e0ccead750a330ca94a78e"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/03 程序改错",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序改错.c": "cf2939f5452f32aaab28cf1cfca99a950cdcee2ac86a7b2395d0da42ccdd40c3"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/04 程序修改替换(1)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "题面数学定义推导：1! 至 20! 的部分和（非平台测试集）",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "statement_derived",
+    "answer_sha256": {
+      "answer/程序修改替换(1).c": "e1d6709ee0c2fd24fccfb8bf28c853d02f6c3983177728e0d1d61687afabb5e2"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/05 程序修改替换(2)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序修改替换(2).c": "815ae035cbfba7159872c690312f86b8410b5fa73672c78904383fec20f80448"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/06 歌德巴赫猜想",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/歌德巴赫猜想.c": "8d6a758901fbdba68544cd70d8a4e787f1d20e4345df6744d9a561f87ec4a9de"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/07 完全数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/完全数.c": "041f0a2e5f997eed55444dd2ec4830d3a91880103deb79147a99c8745988af72"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/08 三角形面积",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/三角形面积.c": "7add477ec1d1ce48db80d4220dac86244f37a17701b10f3239f1a9441d74132d"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/09 条件编译(1)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/条件编译(1).c": "117019ebdebef5e306d34603ddcd7df57287326363048a047479d8292ce14379"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/10 条件编译(2)",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/条件编译(2).c": "ff219587f47aedf99fef6568e5ca0b5fb31550053f0bd1ca4a48e50bce46f224"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/11 多文件C程序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/file.h": "52882fc8a3b63d01290dd5c2fde7a591d26484c9119bad64f9e4a1e25fb30d92",
+      "answer/file2.c": "7e760ae89ef084884ff4371366f4d6e67e30c7281b1be5fafe50943539558dac",
+      "answer/多文件C程序.c": "d6f0e1edc58b28bc63dab686b66ad3c529254cfdb5cb73f76f4cd3159457cff2"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/01 程序改错与跟踪调试",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序改错与跟踪调试.c": "5396e53202f1622e9d56070bc1e111bf0ed8251a6aad40b729acb982e49bc7d7"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/02 去掉重复的字符（填空）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/去掉重复的字符（填空）.c": "7a90134b04735b78bfb87af11a2041989f568926807d42ffec3c48c5b99fd8bc"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/03 去掉重复字符（改进）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/去掉重复字符（改进）.c": "030fb63db62857c63cbc7b1320dc331761b5f0229f5812d159f36a15eff6d1c7"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/04 约瑟夫问题（填空）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/约瑟夫问题（填空）.c": "e815cd875f060f31b42af7fccb0e52ae826e9e36f4ad534e5375473256255f1a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/05 解约瑟夫问题（改进）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/解约瑟夫问题（改进）.c": "04519dc71ae18ae3e5430246e48a14ec0248a384214c171db08c7fdd8d03da93"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/06 整数的二进制表示",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/整数的二进制表示.c": "be7e76645fe3280c6abe6b3824bb8229a9e60fe26b53c209e741241ad17918f1"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/07 成绩排序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/成绩排序.c": "ee6282aaabbd7d386ab3a2eb26d427d1a2f2c1d7d6dd8734651f84789ce0f455"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/08 二分查找",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/二分查找.c": "ee6282aaabbd7d386ab3a2eb26d427d1a2f2c1d7d6dd8734651f84789ce0f455"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/09 插入字符串",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/插入字符串.c": "26073500e8c584d86d9b50c6ff87807f29ff26d2c809b3d79b185714b291195b"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/10 消除类游戏",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/消除类游戏.c": "ac1534327edc3adb14f3557109468e728d32259ffb77013c2701e659728a3892"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/11 N阶顺转方阵",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/N阶顺转方阵.c": "7b614f254ddf34bfc67a1af0878a95b7c9812b1d37a9031d70f05b050a3c0a57"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/12 迷宫问题",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/迷宫问题.c": "4165c55b725c88759296057746c78f7d0b8a178166ec74fd8e20bae77d96905e"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/01 程序改错----合数判断器",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序改错----合数判断器.c": "217486e9572cd56d8067c6261fc6315f747581c18fd0ebd00cc94c8ce96a6cce"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/02 程序修改替换（1）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 4",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序修改替换（1）.c": "217486e9572cd56d8067c6261fc6315f747581c18fd0ebd00cc94c8ce96a6cce"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/03 程序修改替换（2）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序修改替换（2）.c": "1202cd8172768ce6912f413a1081f63ee5871908f64830d1ebe22b288173c0be"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/04 纯粹合数求解器",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/纯粹合数求解器.c": "65d5f55b49abb298d56b257c3ded7b730c9c44ed7d491454aebf35b6f0529f19"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/05 税金计算",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/税金计算.c": "4dd4d0697ac6c45d7f91b67da606689a36de29e9a430a279e17f8833d57ed384"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/06 n位数平方的末尾n位和原数相同",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/n位数平方的末尾n位和原数相同.c": "4438257e441ea6ada8dad8f3a36e4e6160f222b7d9dd5db81e7f477122a6f0f7"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/07 n天股票最大波动值",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/n天股票最大波动值.c": "b24a5058b14b04a08a8095ea1751363d3e1465f0bad3a8bd184eedbc6486f774"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/08 去除重复空格",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/去除重复空格.c": "5fec8be0f66b48861ab694c9a65816894754a68560156157d89f55d977ecb8e5"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/09 打印n行杨辉三角",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/打印n行杨辉三角.c": "56a21a7be79fd3d2045429cf00994f0a08baaae83f2f9cc06cdea0b21f7fd54e"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/10 梅森素数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/梅森素数.c": "481a79a489465c774dfd4c6641caffc4c5aba81759460ec878049b311c1ad92e"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/11 孪生素数",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/孪生素数.c": "01ff59e350f6fd165898f3321ab2489cfdb15d661e18461e962b86068d2be998"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验三 流程控制 [4139760]/12 输出abcde%002Ffghij=x表达式",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/输出abcde%002Ffghij=x表达式.c": "54484309f1688f0bd1fcd7ba0cc41d375cdee12679650f491b4b542a88c0c021"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/01 程序改错与跟踪调试",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序改错与跟踪调试.c": "00a1eb792ae87dd7a4060c9b246a52fb1ea152a2cca86f258028f782199bf84e"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/02 程序完善和修改替换--字符串排序（填空）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序完善和修改替换--字符串排序（填空）.c": "6b4c4b4f2e9a752595582fead10f33ceda088257e0bfbb99f4d010d89c0c750a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/03 程序完善和修改替换--字符串排序（改进）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序完善和修改替换--字符串排序（改进）.c": "6b4c4b4f2e9a752595582fead10f33ceda088257e0bfbb99f4d010d89c0c750a"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/04 程序完善和修改替换--函数指针（填空）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 3",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序完善和修改替换--函数指针（填空）.c": "1209d095b8c57f22aaa54220b07fb2a6def1660124e051bfd51e55375f1c9f95"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/05 程序完善和修改替换--函数指针数组（改进）",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/程序完善和修改替换--函数指针数组（改进）.c": "1209d095b8c57f22aaa54220b07fb2a6def1660124e051bfd51e55375f1c9f95"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/06 通过指针取出字节",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/通过指针取出字节.c": "2f503ec42356fd4d25b5cf5c0341a65e4934104024dc7fc88263750cf8cb8c8d"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/07 删除重复元素",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/删除重复元素.c": "8b69005aa88e32f5381a534e40939871d1dc75afa6386bc7da05065280f22e13"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/08 旋转图像",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/旋转图像.c": "263b044ac01664c3ef34638d9863daf9e02273f526665cf8a9576f8ec35caf84"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/09 命令行实现对N个整数排序",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/命令行实现对N个整数排序.c": "809783b08d10c8850d81b5a49e551b6c3a1a84d74f7be4ca014b477a1e5adb8c"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/10 删除子串",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 7",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/删除子串.c": "5f8597bfc0b17b149049f701d591cf34687a4732ea2a9257c31354b1d5895098"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/11 非负整数积",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/非负整数积.c": "e5e0e31e3bc77297b1d32aeecfd4d7c84ecb14b68586d75f710f25475257b6f0"
+    }
+  },
+  {
+    "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/12 函数调度",
+    "passed": true,
+    "samples": [
+      {
+        "name": "测试集 1",
+        "passed": true,
+        "exit_code": 0
+      },
+      {
+        "name": "测试集 2",
+        "passed": true,
+        "exit_code": 0
+      }
+    ],
+    "test_source": "platform_public",
+    "answer_sha256": {
+      "answer/函数调度.c": "d228127863b6124ab14f5a88d62d2c26b7ddafdb9070f6c67ea004914c9d5507"
+    }
+  }
+]

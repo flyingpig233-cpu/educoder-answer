@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/09 条件编译(1)",
+  "editable_paths": [
+    "src/step8/main.c"
+  ],
+  "homework": "C语言-实验四 函数与编译预处理",
+  "homework_id": 4139769,
+  "listed_title": "条件编译(1)",
+  "position": 9,
+  "public_samples": 2,
+  "shixun": "9wrkblco",
+  "status": "public_samples_passed",
+  "title": "条件编译(1)",
+  "answer_files": [
+    "answer/条件编译(1).c"
+  ]
+}

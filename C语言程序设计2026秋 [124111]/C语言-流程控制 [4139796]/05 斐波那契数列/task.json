@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/05 斐波那契数列",
+  "editable_paths": [
+    "src/step5/main.c"
+  ],
+  "homework": "C语言-流程控制",
+  "homework_id": 4139796,
+  "listed_title": "斐波那契数列",
+  "position": 5,
+  "public_samples": 2,
+  "shixun": "tvku76cw",
+  "status": "public_samples_passed",
+  "title": "斐波那契数列",
+  "answer_files": [
+    "answer/斐波那契数列.c"
+  ]
+}

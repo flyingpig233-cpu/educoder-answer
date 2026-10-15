@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验六 指针 [4139757]/09 命令行实现对N个整数排序",
+  "editable_paths": [
+    "src/step9/step9_main.c"
+  ],
+  "homework": "C语言-实验六 指针",
+  "homework_id": 4139757,
+  "listed_title": "命令行实现对N个整数排序",
+  "position": 9,
+  "public_samples": 2,
+  "shixun": "72lrs69a",
+  "status": "public_samples_passed",
+  "title": "命令行实现对N个整数排序",
+  "answer_files": [
+    "answer/命令行实现对N个整数排序.c"
+  ]
+}

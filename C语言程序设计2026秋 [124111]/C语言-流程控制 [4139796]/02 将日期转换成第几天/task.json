@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/02 将日期转换成第几天",
+  "editable_paths": [
+    "src/step2/main.c"
+  ],
+  "homework": "C语言-流程控制",
+  "homework_id": 4139796,
+  "listed_title": "将日期转换成第几天",
+  "position": 2,
+  "public_samples": 3,
+  "shixun": "tvku76cw",
+  "status": "public_samples_passed",
+  "title": "将日期转换成第几天",
+  "answer_files": [
+    "answer/将日期转换成第几天.c"
+  ]
+}

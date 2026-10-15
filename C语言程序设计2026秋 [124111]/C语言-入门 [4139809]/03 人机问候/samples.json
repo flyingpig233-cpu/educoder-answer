@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "Hello LiSi!",
+    "input": "LiSi",
+    "name": "测试集 1"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验八 文件操作实验 [4139776]/03 字符串替换3.(1)",
+  "editable_paths": [
+    "src/step3/step3_main.c"
+  ],
+  "homework": "C语言-实验八 文件操作实验",
+  "homework_id": 4139776,
+  "listed_title": "字符串替换3.(1)",
+  "position": 3,
+  "public_samples": 2,
+  "shixun": "2fl3zfqs",
+  "status": "public_samples_passed",
+  "title": "字符串替换3.(1)",
+  "answer_files": [
+    "answer/字符串替换3.(1).c"
+  ]
+}

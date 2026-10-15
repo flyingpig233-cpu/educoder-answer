@@ -1,0 +1,23 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/11 多文件C程序",
+  "editable_paths": [
+    "src/step5/file1.c",
+    "src/step5/file2.c",
+    "src/step5/file.h"
+  ],
+  "homework": "C语言-实验四 函数与编译预处理",
+  "homework_id": 4139769,
+  "listed_title": "多文件C程序",
+  "position": 11,
+  "public_samples": 2,
+  "shixun": "9wrkblco",
+  "status": "public_samples_passed",
+  "title": "多文件C程序",
+  "answer_files": [
+    "answer/file.h",
+    "answer/file2.c",
+    "answer/多文件C程序.c"
+  ]
+}

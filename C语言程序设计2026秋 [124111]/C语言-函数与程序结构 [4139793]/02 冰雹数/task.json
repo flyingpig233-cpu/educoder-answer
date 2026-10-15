@@ -1,0 +1,20 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-函数与程序结构 [4139793]/02 冰雹数",
+  "editable_paths": [
+    "src/Step2/step2_stu.h",
+    "src/Step2/step2_main.c"
+  ],
+  "homework": "C语言-函数与程序结构",
+  "homework_id": 4139793,
+  "listed_title": "冰雹数",
+  "position": 2,
+  "public_samples": 2,
+  "shixun": "ycf3a4h6",
+  "status": "public_samples_passed",
+  "title": "冰雹数",
+  "answer_files": [
+    "answer/冰雹数.c"
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "gg 谷歌搜索网站 http://www.google.com\nsn 苏宁易购网站 http://www.suning.com\ntb 淘宝网站 http://www.taobao.com\nxch 携程旅游网站 http://www.ctrip.com\nhttp://www.ctrip.com",
+    "input": "sn 苏宁易购网站 http://www.suning.com\ntb 淘宝网站 http://www.taobao.com\nxch 携程旅游网站 http://www.ctrip.com\ngg 谷歌搜索网站 http://www.google.com\nxch",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "bd 百度搜索网站 http://www.baidu.com\ngg 谷歌搜索网站 http://www.google.com\nhkd 华中科技大学 http://www.hust.edu.cn\nwy 网易邮箱登录 https://mail.163.com\nhttp://www.google.com",
+    "input": "hkd 华中科技大学 http://www.hust.edu.cn\nbd 百度搜索网站 http://www.baidu.com\ngg 谷歌搜索网站 http://www.google.com\nwy 网易邮箱登录 https://mail.163.com\ngg",
+    "name": "测试集 3"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验七 结构与联合 [4139773]/01 表达式求值的程序验证",
+  "editable_paths": [
+    "src/step1/main.c"
+  ],
+  "homework": "C语言-实验七 结构与联合",
+  "homework_id": 4139773,
+  "listed_title": "表达式求值的程序验证",
+  "position": 1,
+  "public_samples": 0,
+  "shixun": "imszrkxv",
+  "status": "skipped_missing_specification",
+  "title": "表达式求值的程序验证",
+  "answer_files": []
+}

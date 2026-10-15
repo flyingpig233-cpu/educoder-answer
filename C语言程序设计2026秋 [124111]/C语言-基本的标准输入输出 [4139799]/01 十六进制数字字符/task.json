@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-基本的标准输入输出 [4139799]/01 十六进制数字字符",
+  "editable_paths": [
+    "src/Step1/step_stu.c"
+  ],
+  "homework": "C语言-基本的标准输入输出",
+  "homework_id": 4139799,
+  "listed_title": "十六进制数字字符",
+  "position": 1,
+  "public_samples": 3,
+  "shixun": "xasu42lk",
+  "status": "public_samples_passed",
+  "title": "十六进制数字字符",
+  "answer_files": [
+    "answer/十六进制数字字符.c"
+  ]
+}

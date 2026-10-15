@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "the more you get.\nthe more you learn,the more you get.\nwww\n",
+    "input": "1\nthe more you learn,\nthe more you get.\n2\nthe more you learn,\nthe more you get.\n3\nwww.educoder.net\n.\n4",
+    "name": "测试集 1"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "9",
+    "input": "husterNB!",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "26",
+    "input": "GoodGoodLearning,DayDayUp!",
+    "name": "测试集 2"
+  }
+]

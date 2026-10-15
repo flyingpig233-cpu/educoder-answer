@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/05 解约瑟夫问题（改进）",
+  "editable_paths": [
+    "src/step3/step_main.c"
+  ],
+  "homework": "C语言-实验五-数组",
+  "homework_id": 4139765,
+  "listed_title": "解约瑟夫问题（改进）",
+  "position": 5,
+  "public_samples": 1,
+  "shixun": "mc8urtsq",
+  "status": "public_samples_passed",
+  "title": "解约瑟夫问题（改进）",
+  "answer_files": [
+    "answer/解约瑟夫问题（改进）.c"
+  ]
+}

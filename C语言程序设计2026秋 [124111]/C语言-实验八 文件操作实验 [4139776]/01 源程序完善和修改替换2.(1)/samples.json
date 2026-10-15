@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "1234567\nabcdefg\n!@#$%^&\n1234567\nabcdefg\n!@#$%^&\n1234567\nabcdefg\n!@#$%^&",
+    "input": "./cat test1.txt",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "I am a student.\n我是一个学生。\nI am a student.\n我是一个学生。\nI am a student.\n我是一个学生。\nI am a student.\n我是一个学生。\nI am a student.\n我是一个学生。\nI am a student.\n我是一个学生。",
+    "input": "./cat test2.txt",
+    "name": "测试集 2"
+  }
+]

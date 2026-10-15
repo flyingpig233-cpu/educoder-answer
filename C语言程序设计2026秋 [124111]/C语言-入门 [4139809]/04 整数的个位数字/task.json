@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-入门 [4139809]/04 整数的个位数字",
+  "editable_paths": [
+    "src/step4/step4_main.c"
+  ],
+  "homework": "C语言-入门",
+  "homework_id": 4139809,
+  "listed_title": "整数的个位数字",
+  "position": 4,
+  "public_samples": 1,
+  "shixun": "ho2s5f7c",
+  "status": "public_samples_passed",
+  "title": "整数的个位数字",
+  "answer_files": [
+    "answer/整数的个位数字.c"
+  ]
+}

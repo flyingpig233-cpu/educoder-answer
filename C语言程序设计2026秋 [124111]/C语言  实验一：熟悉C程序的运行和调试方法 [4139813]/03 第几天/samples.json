@@ -1,0 +1,17 @@
+[
+  {
+    "expected": "It is the 293th day.",
+    "input": "2021 10 20",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "It is the 160th day.",
+    "input": "2004 6 8",
+    "name": "测试集 3"
+  },
+  {
+    "expected": "It is the 10th day.",
+    "input": "2019 1 10",
+    "name": "测试集 4"
+  }
+]

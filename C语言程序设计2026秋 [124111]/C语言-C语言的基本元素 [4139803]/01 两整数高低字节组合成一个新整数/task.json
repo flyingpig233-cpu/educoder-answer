@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/01 两整数高低字节组合成一个新整数",
+  "editable_paths": [
+    "src/Step1/step1_stu.h"
+  ],
+  "homework": "C语言-C语言的基本元素",
+  "homework_id": 4139803,
+  "listed_title": "两整数高低字节组合成一个新整数",
+  "position": 1,
+  "public_samples": 3,
+  "shixun": "zxfl7wny",
+  "status": "public_samples_passed",
+  "title": "两整数高低字节组合成一个新整数",
+  "answer_files": [
+    "answer/两整数高低字节组合成一个新整数.c"
+  ]
+}

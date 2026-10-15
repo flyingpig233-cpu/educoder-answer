@@ -1,0 +1,17 @@
+[
+  {
+    "expected": "the function 0 is called!\nthe function 1 is called!\nthe function 3 is called!\nthe function 4 is called!\nthe function 5 is called!\nthe function 6 is called!",
+    "input": "123",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "the function 0 is called!\nthe function 1 is called!\nthe function 2 is called!\nthe function 3 is called!\nthe function 4 is called!\nthe function 5 is called!\nthe function 6 is called!\nthe function 7 is called!",
+    "input": "255",
+    "name": "测试集 3"
+  },
+  {
+    "expected": "",
+    "input": "0",
+    "name": "测试集 4"
+  }
+]

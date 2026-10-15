@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验五-数组 [4139765]/10 消除类游戏",
+  "editable_paths": [
+    "src/step8/step_main.c"
+  ],
+  "homework": "C语言-实验五-数组",
+  "homework_id": 4139765,
+  "listed_title": "消除类游戏",
+  "position": 10,
+  "public_samples": 2,
+  "shixun": "mc8urtsq",
+  "status": "public_samples_passed",
+  "title": "消除类游戏",
+  "answer_files": [
+    "answer/消除类游戏.c"
+  ]
+}

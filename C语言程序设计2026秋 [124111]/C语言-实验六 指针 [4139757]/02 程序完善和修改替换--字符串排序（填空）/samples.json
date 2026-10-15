@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "C\nJava\nPython",
+    "input": "3\nC\nPython\nJava",
+    "name": "测试集 1"
+  }
+]

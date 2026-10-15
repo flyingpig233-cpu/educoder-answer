@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验四 函数与编译预处理 [4139769]/03 程序改错",
+  "editable_paths": [
+    "src/step1/step1_main.c"
+  ],
+  "homework": "C语言-实验四 函数与编译预处理",
+  "homework_id": 4139769,
+  "listed_title": "程序改错",
+  "position": 3,
+  "public_samples": 1,
+  "shixun": "9wrkblco",
+  "status": "public_samples_passed",
+  "title": "程序改错",
+  "answer_files": [
+    "answer/程序改错.c"
+  ]
+}

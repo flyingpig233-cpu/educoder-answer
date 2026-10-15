@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-C语言的基本元素 [4139803]/04 求三个数中最大值",
+  "editable_paths": [
+    "src/Step4/step4_stu.h"
+  ],
+  "homework": "C语言-C语言的基本元素",
+  "homework_id": 4139803,
+  "listed_title": "求三个数中最大值",
+  "position": 4,
+  "public_samples": 1,
+  "shixun": "zxfl7wny",
+  "status": "public_samples_passed",
+  "title": "求三个数中最大值",
+  "answer_files": [
+    "answer/求三个数中最大值.c"
+  ]
+}

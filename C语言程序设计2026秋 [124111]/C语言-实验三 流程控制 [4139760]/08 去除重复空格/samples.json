@@ -1,0 +1,12 @@
+[
+  {
+    "expected": " I love hust!",
+    "input": "     I      love      hust!",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "a b c d \n qq erty w ",
+    "input": "a                 b c                  d       \n qq  erty      w     ",
+    "name": "测试集 2"
+  }
+]

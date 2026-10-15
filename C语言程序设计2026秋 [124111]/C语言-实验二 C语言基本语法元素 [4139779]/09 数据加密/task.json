@@ -1,0 +1,17 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/09 数据加密",
+  "editable_paths": [
+    "src/step13/step13_main.c"
+  ],
+  "homework": "C语言-实验二 C语言基本语法元素",
+  "homework_id": 4139779,
+  "listed_title": "数据加密",
+  "position": 9,
+  "public_samples": 1,
+  "shixun": "54hb3zkc",
+  "status": "skipped_missing_specification",
+  "title": "数据加密",
+  "answer_files": []
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "expected": "0:1\n1:1\n2:1\n9:1\nE:1\nH:2\nI:1\nM:2\nO:1\nS:2\nT:1\nU:1\nY:1\nothers:5\n",
+    "input": "hust is my home!2019!\n",
+    "name": "测试集 1"
+  },
+  {
+    "expected": "1:3\n2:1\n7:1\n9:1\nA:12\nB:3\nC:5\nD:7\nE:23\nF:1\nG:7\nH:6\nI:14\nL:14\nM:5\nN:11\nO:9\nP:9\nR:8\nS:9\nT:12\nU:4\nV:3\nW:2\nX:1\nY:4\nothers:41\n",
+    "input": "C is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. C was originally first implemented on the DEC PDP-11 computer in 1972.\n",
+    "name": "测试集 2"
+  }
+]

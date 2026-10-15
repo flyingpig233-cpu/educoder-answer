@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-流程控制 [4139796]/04 四则运算（switch语句）",
+  "editable_paths": [
+    "src/step4/main.c"
+  ],
+  "homework": "C语言-流程控制",
+  "homework_id": 4139796,
+  "listed_title": "四则运算（switch语句）",
+  "position": 4,
+  "public_samples": 3,
+  "shixun": "tvku76cw",
+  "status": "public_samples_passed",
+  "title": "四则运算（switch语句）",
+  "answer_files": [
+    "answer/四则运算（switch语句）.c"
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "q w e r t y u i o p a s d f g h j k l \nqwertyuiopasdfghjkl\nqwertyuopasdfghjkl",
+    "input": "qwertyuiopasdfghjkl\ni",
+    "name": "测试集 1"
+  }
+]

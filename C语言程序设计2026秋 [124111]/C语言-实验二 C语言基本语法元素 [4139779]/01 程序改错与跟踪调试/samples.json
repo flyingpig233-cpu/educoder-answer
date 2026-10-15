@@ -1,0 +1,7 @@
+[
+  {
+    "expected": "Input Fahrenheit:\n 59(F)=15.00(C)\n\ninput the radius r:\nThe acreage is 28.27\n\nnew int = 0x84a1\n\n",
+    "input": "59\n3.0",
+    "name": "测试集 1"
+  }
+]

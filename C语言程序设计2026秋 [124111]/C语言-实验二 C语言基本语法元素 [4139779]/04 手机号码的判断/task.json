@@ -1,0 +1,19 @@
+{
+  "course": "C语言程序设计2026秋",
+  "course_id": 124111,
+  "directory": "C语言程序设计2026秋 [124111]/C语言-实验二 C语言基本语法元素 [4139779]/04 手机号码的判断",
+  "editable_paths": [
+    "src/step4/step4_main.c"
+  ],
+  "homework": "C语言-实验二 C语言基本语法元素",
+  "homework_id": 4139779,
+  "listed_title": "手机号码的判断",
+  "position": 4,
+  "public_samples": 4,
+  "shixun": "54hb3zkc",
+  "status": "public_samples_passed",
+  "title": "手机号码的判断",
+  "answer_files": [
+    "answer/手机号码的判断.c"
+  ]
+}
