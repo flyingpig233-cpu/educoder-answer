@@ -15,8 +15,9 @@
     "cargo_fmt": "passed",
     "cargo_check_workspace": "passed",
     "cargo_test_workspace": "passed",
-    "core_unit_tests": 27,
-    "ui_unit_tests": 4
+    "core_unit_tests": 39,
+    "ui_unit_tests": 9,
+    "last_verified_date": "2026-10-17"
   },
   "submission_forms": {
     "program": 93,
@@ -29,5 +30,15 @@
   "local_contract_boundary_samples_passed": 50,
   "interface_regressions_passed": 4,
   "online_evaluation_verified": false,
-  "submission_format_audit_date": "2026-10-15"
+  "submission_format_audit_date": "2026-10-15",
+  "rotation_io_fix": {
+    "date": "2026-10-17",
+    "homework_id": 4139776,
+    "position": 6,
+    "public_samples_passed": 2,
+    "regression_tests_passed": 8,
+    "platform_input_renaming_removed": true,
+    "online_retest_performed": false,
+    "live_diagnostics": "session_expired"
+  }
 }

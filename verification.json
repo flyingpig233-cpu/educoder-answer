@@ -1886,7 +1886,7 @@
       }
     ],
     "answer_sha256": {
-      "answer/src/step6/step6_main.c": "8f87f54f168058a242be4c2c199df4cb4802b678f6c066183c05948fee1a9295"
+      "answer/src/step6/step6_main.c": "b81543e13a925050298811b5a110a812e29407b3818f442d78e79b1d57834716"
     },
     "submission_form": "program",
     "entry_point_source": "submission",

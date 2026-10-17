@@ -153,9 +153,6 @@ def main():
                     if config.get("command_line"):
                         first, _, stdin = stdin.partition("\n")
                         command += shlex.split(first)[1:]
-                    if config.get("matrix_file"):
-                        shutil.copyfile(work / stdin.strip(), work / "matrix.in")
-                        stdin = ""
                     run = subprocess.run(command, input=stdin.encode("utf-8"), capture_output=True, timeout=5, cwd=work)
                     actual = run.stdout
                     if config.get("output_file"):
